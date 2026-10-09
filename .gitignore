@@ -20,6 +20,7 @@ Thumbs.db
 !/assets/uss_theurgy/imagenes_puente/.gitkeep
 /assets/uss_theurgy/planos/*
 !/assets/uss_theurgy/planos/.gitkeep
+/assets/otros/
 
 # Copias de seguridad, pruebas y exportaciones generadas
 /blender/backups/*
