@@ -1,0 +1,755 @@
+{
+  "date": "2026-10-10",
+  "branch": "feat/theurgy-escala-transitabilidad",
+  "initial_head": "60e04b6",
+  "initial_git_status": "clean",
+  "original_sha256": "0a55058552623995200fd5e16ddc327d5a6b2f6c54bbb9754f8340d01c885148",
+  "original_bytes": 21386736,
+  "copy_sha256": "a47bf96edd671bfbf6f68ccbadf8ee03938fd81e68df18ba3a41e65badefb093",
+  "copy_bytes": 21399605,
+  "backup_initial_sha256": "0a55058552623995200fd5e16ddc327d5a6b2f6c54bbb9754f8340d01c885148",
+  "imported_objects_fingerprint": "70eacb7c0f9db9cb71c1a8a948ceaf5cbc6638f8a48d1519a85a51b0345cfada",
+  "original_objects_unchanged": 12453,
+  "used_materials_unchanged": 55,
+  "packed_textures_unchanged": 20,
+  "orphan_material_not_saved": [
+    "Material"
+  ],
+  "auxiliary_objects": 37,
+  "capsule_dimensions": {
+    "REF_HUMANO_H180_ESQUEMATICO": {
+      "location": [
+        1.2000000476837158,
+        4.699999809265137,
+        0.4300011992454529
+      ],
+      "world_dimensions": [
+        0.6399999260902405,
+        0.23999977111816406,
+        1.800000011920929
+      ]
+    },
+    "REF_CAPSULA_UE5_R034_H176": {
+      "location": [
+        -1.2000000476837158,
+        4.699999809265137,
+        0.43000006675720215
+      ],
+      "world_dimensions": [
+        0.6800000667572021,
+        0.6800003051757812,
+        1.7599999904632568
+      ]
+    }
+  },
+  "analytical_geometry_tests": 5,
+  "flat_clear_routes": [
+    "frontal_libre",
+    "rodear_capitan_izq",
+    "rodear_capitan_der",
+    "perimetro_izquierdo",
+    "perimetro_derecho"
+  ],
+  "assets_historical_checked": 81,
+  "assets_historical_changed": [],
+  "assets_historical_missing": [],
+  "assets_current_count": 154,
+  "assets_added_since_historical_inventory": [
+    "assets/otros/NPC/7 de 9/seven-of-nine/source/7of9_sketchfab.fbx",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_AO.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_albedo.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_metallic.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_normal.png",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_roughness.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Eyelashes_normal.png",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Eyelashes_opacity.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_AO.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_albedo.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_normal.png",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_opacity.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_roughness.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_AO.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_albedo.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_normal.png",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_roughness.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/Mough_albedo.jpeg",
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/eye_albedo.jpeg",
+    "assets/otros/NPC/7 de 9/seven_of_nine/license.txt",
+    "assets/otros/NPC/7 de 9/seven_of_nine/scene.bin",
+    "assets/otros/NPC/7 de 9/seven_of_nine/scene.gltf",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_baseColor.jpeg",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_metallicRoughness.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_normal.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Eyelashes_baseColor.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Eyelashes_normal.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_baseColor.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_metallicRoughness.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_normal.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_baseColor.jpeg",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_metallicRoughness.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_normal.png",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/Mough_baseColor.jpeg",
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/material_baseColor.jpeg",
+    "assets/otros/NPC/Data/ava-data-mashup.zip",
+    "assets/otros/NPC/Data/ava__data_mashup.glb",
+    "assets/otros/NPC/Worf/star-trek-first-contact-worf.zip",
+    "assets/otros/NPC/Worf/star_trek_first_contact__worf.glb",
+    "assets/otros/NPC/Worf/star_trek_first_contact__worf.zip",
+    "assets/otros/ships/class sovereign with hangar/star-trek-sovereign-class-with-shuttlebay.zip",
+    "assets/otros/ships/class sovereign with hangar/star_trek_sovereign_class_with_shuttlebay.glb",
+    "assets/otros/ships/class sovereign with hangar/star_trek_sovereign_class_with_shuttlebay.zip",
+    "assets/otros/ships/class sovereign/star-trek-sovereign-class.zip",
+    "assets/otros/ships/class sovereign/star_trek_-_sovereign_class (1).glb",
+    "assets/otros/universe/planets/green-planet.zip",
+    "assets/otros/universe/planets/green_planet.glb",
+    "assets/otros/universe/planets/jupiter-free-downloadable-model.zip",
+    "assets/otros/universe/planets/photorealistic-moon.zip",
+    "assets/otros/universe/planets/planet-earth.zip",
+    "assets/otros/universe/planets/planet-venus.zip",
+    "assets/otros/universe/planets/planet_earth (2).glb",
+    "assets/otros/universe/planets/planet_venus.glb",
+    "assets/otros/universe/planets/saturn-planet.zip",
+    "assets/otros/universe/planets/various-planets.zip",
+    "assets/otros/universe/stars/solar-prominence/source/0000000.blend",
+    "assets/otros/universe/stars/solar-prominence/textures/500_(4).jpeg",
+    "assets/otros/universe/stars/solar-prominence/textures/500_(7).jpeg",
+    "assets/otros/universe/stars/solar-prominence/textures/86133191-abstract-halftone-random-white-do.jpeg",
+    "assets/otros/universe/stars/solar-system-animation/source/Solar System.blend",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_earth_daymap.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_jupiter.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_mars.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_mercury.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_moon.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_neptune.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_saturn.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_saturn_ring_alpha.png",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_sun.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_uranus.jpg",
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_venus_surface.jpg",
+    "assets/otros/universe/stars/solar_prominence.glb",
+    "assets/otros/universe/stars/solar_system_animation.glb"
+  ],
+  "assets_current_hashes": {
+    "assets/enterprise_kelvin/imagenes_referencia/.gitkeep": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "assets/enterprise_kelvin/modelo_original/.gitkeep": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "assets/enterprise_kelvin/modelo_original/enterprise_ncc_1701_d.glb": {
+      "bytes": 29047960,
+      "sha256": "eb324ec3b3556615dd0cb30c72c08bde56c6ef46a4445d342e22c24795b57876"
+    },
+    "assets/enterprise_kelvin/modelo_original/star_trek_tng_galaxy_class_model.glb": {
+      "bytes": 9470884,
+      "sha256": "ada1e0cb6a98fcf26e4c1d40d7974d9bdb8d0374763ea1cc764cac62c512e8f3"
+    },
+    "assets/enterprise_kelvin/modelo_original/U.S.S.usdz": {
+      "bytes": 76463978,
+      "sha256": "6911743dad1fcb5b685c07a3ec57746e8363ddf7b73126465e1c3b5d900e5cb7"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae.zip": {
+      "bytes": 20411908,
+      "sha256": "0b43c8a8e4e40fac4cb894c4c648fb4e6efb8283fe9f36982ee6e62e9e785c3d"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model.dae": {
+      "bytes": 84248309,
+      "sha256": "447d9cfd90e326875b28ed5345f59d8e8633b712618319c5ec0806c001c5453e"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/Aluminum.jpg": {
+      "bytes": 12471,
+      "sha256": "e9441a0e987d966d39cb97b6b1e92872a0e10933f68440a86466b8b3d2ecdd38"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/Blinds_Roman_Hobbled_Blue.jpg": {
+      "bytes": 4097,
+      "sha256": "0abea332a39e448443db5aff0fe3226ed8b2b2df9ef834e61793f5f4f5dfdd4a"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/GRATE_GLOW.jpg": {
+      "bytes": 192060,
+      "sha256": "a2a1d9703429a4cfabcb89adcd35394035719d4def26e74f38929120d1f14088"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/HONEYCOMB_GLOW_2.jpg": {
+      "bytes": 2419513,
+      "sha256": "7a9fffdcd1a909d720c7651d4f19a354e8489dfe38b09a93bdf2666c04b17ad4"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/iso_web_yellow2.jpg": {
+      "bytes": 34913,
+      "sha256": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_28.png": {
+      "bytes": 229353,
+      "sha256": "6c138670c08b4fffadb7796487c1a9fc9d9e890d3a6462fdeaffaf677d9fd3bb"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_3.jpg": {
+      "bytes": 16783,
+      "sha256": "3616e73a71d876389927a9361db903d0eaf26bb2924e426b03af91e77c3b1f27"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_3_0.jpg": {
+      "bytes": 13468,
+      "sha256": "44d94e40734a5080e665e8453405c35733fa8de4c1c5e01a6343b33bd05da5e5"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_3_1.jpg": {
+      "bytes": 13434,
+      "sha256": "884644ec478f7d0e356086b695da6320843351494139396d89edabcac18dbff2"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_4.jpg": {
+      "bytes": 894,
+      "sha256": "6afc8d98208b86c0708e6aaaa012e14e50a94d0c6446d47e2dd7ae262d7417d8"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_43.jpg": {
+      "bytes": 115341,
+      "sha256": "74d4a82aaa84e72d661a393e8e80e6c34da10f84890034410f6871801c2f7fa2"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_44.jpg": {
+      "bytes": 34315,
+      "sha256": "397f264e95eece64ab1142afd208b57ba53e34c3f52b433c0a2430d7f7fb4b8c"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_46.jpg": {
+      "bytes": 43357,
+      "sha256": "65316656f11678d6c884b0127b77e9865895ecd127cb1b8999896526d2bf30f4"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_48.jpg": {
+      "bytes": 6886,
+      "sha256": "4b78838428e98bda24004c6261582328099078bb46d10d2ae4ce9aae57a37277"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_54.jpg": {
+      "bytes": 9336,
+      "sha256": "216edc1faf39e1d392eaec4873422ff0223d47e39be3f86b48143a27f4fefa87"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_7.jpg": {
+      "bytes": 104893,
+      "sha256": "578a11be636a0f6172beaaa99d84c8d5fbbd1cf0aa95b1459507baa0eaebcc27"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/NewTrekLCARS.jpg": {
+      "bytes": 2726355,
+      "sha256": "d006ab1f2b3bd1643ab0a95aa3a52971e05805d2a6c708e0e8102ab264629610"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/VIEWSCREEN_GLOW.jpg": {
+      "bytes": 99265,
+      "sha256": "65bd94bd259369587db6e13ad5a2567dd67540ca966a43c74db86e639ecb41a9"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/_58cd499217289.560ca8b44d983.jpg": {
+      "bytes": 234545,
+      "sha256": "0b20a805b094283695f6f148a870d6bd00b8e276c232eb31bca88eacf4c7cf13"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/__.jpg": {
+      "bytes": 21835,
+      "sha256": "39e36c7766ea9d3e412a38d462d719030c11d36378712c0380b6f0ddac781831"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/Aluminum.jpeg": {
+      "bytes": 16836,
+      "sha256": "bde63a51f5b8d81fbb59fbd2dec7bd3a94eb3dd993fd2c4bc128931450b9a77f"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/Blinds_Roman_Hobbled_Blue.jpeg": {
+      "bytes": 4935,
+      "sha256": "ce620a30939d07bb4f54295b90b50cfc7bd6509765c49434122eb6dc05cf6529"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/GRATE_GLOW.jpeg": {
+      "bytes": 191956,
+      "sha256": "7430e5db37991ab90a53e5397458ee352809961131d404bc493093407c6bd6c3"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/HONEYCOMB_GLOW_2.jpeg": {
+      "bytes": 2419409,
+      "sha256": "273a5f37a35fc6954ca3f253b0482f4bc0e2393b2ab6f4772443040f34b77589"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/internal_ground_ao_texture.jpeg": {
+      "bytes": 17506,
+      "sha256": "7b92376684de51fd5c3124852905295c156baa4c7a2d0030491082b8a62b1ee8"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/iso_web_yellow2.jpeg": {
+      "bytes": 34913,
+      "sha256": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_28.inline_conv_generated.png": {
+      "bytes": 41436,
+      "sha256": "f7521916350c1dff3fe4a99c90b3510d80cf12e62689109da882c3447e354052"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_28.png": {
+      "bytes": 229029,
+      "sha256": "efeb515d401b94d7640844ff71862b6f1ee2c2e69b52b3df47c43cd33680936d"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_3.jpeg": {
+      "bytes": 16783,
+      "sha256": "3616e73a71d876389927a9361db903d0eaf26bb2924e426b03af91e77c3b1f27"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_3_0.jpeg": {
+      "bytes": 13444,
+      "sha256": "689dfc99734efa589eec5153cea01f8e1384383282e6a485eb55583814f8fc1d"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_3_1.jpeg": {
+      "bytes": 13410,
+      "sha256": "ec841c8c42ab867e6c19721a3b570618a091a35d2b12d65983de1952c53b5222"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_4.jpeg": {
+      "bytes": 870,
+      "sha256": "fab1ce17afee3753116991afe1defad261f84fc22f18d8b43dcced737eda956a"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_43.jpeg": {
+      "bytes": 115341,
+      "sha256": "74d4a82aaa84e72d661a393e8e80e6c34da10f84890034410f6871801c2f7fa2"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_44.jpeg": {
+      "bytes": 34291,
+      "sha256": "4f624a6f218c2c8f2fe8111dd5d1ef41d9d8e501b2800c1511e0ccebba3cec7d"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_46.jpeg": {
+      "bytes": 43333,
+      "sha256": "fe267744e5baeca8b63179e1e7c4a72cb14be247831ee6fef32ad79a9c2de383"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_48.jpeg": {
+      "bytes": 6886,
+      "sha256": "4b78838428e98bda24004c6261582328099078bb46d10d2ae4ce9aae57a37277"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_54.jpeg": {
+      "bytes": 9336,
+      "sha256": "216edc1faf39e1d392eaec4873422ff0223d47e39be3f86b48143a27f4fefa87"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_7.jpeg": {
+      "bytes": 104893,
+      "sha256": "578a11be636a0f6172beaaa99d84c8d5fbbd1cf0aa95b1459507baa0eaebcc27"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/NewTrekLCARS.jpeg": {
+      "bytes": 2726251,
+      "sha256": "f84dd816056da3bca1dbb95ec0de72b7bc1aff38d67039b3f937f83a0983b7ce"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/VIEWSCREEN_GLOW.jpeg": {
+      "bytes": 99161,
+      "sha256": "60ffb1e29661e809d6b178a1f2bdc67927556fe6cf1ae3646066437b04230ac0"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/_58cd499217289.560ca8b44d983.jpeg": {
+      "bytes": 234441,
+      "sha256": "c87f2e990af0de813060eee3edcbe0ada112602cdff2ec5730317fdb9279d6fd"
+    },
+    "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/__.jpeg": {
+      "bytes": 21811,
+      "sha256": "3489c3cbaec956672cc4d990fc6cfc86d6caaf1f99c496ce8bb80c6d0e2d5e74"
+    },
+    "assets/enterprise_kelvin/texturas_originales/.gitkeep": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "assets/otros/Danube simulador/star-trek-ds9-danube-runabout-rio-grande-cockpit.zip": {
+      "bytes": 29627139,
+      "sha256": "3b81606d3c1ec65290377edb7121885986582d070741e43e2dd3d254cf629ce5"
+    },
+    "assets/otros/Danube simulador/star_trek_ds9_danube_runabout_rio_grande_cockpit.glb": {
+      "bytes": 18045284,
+      "sha256": "cd0bb409f28ee357505d11faed9afd580bda0873657246f5362f78c7934a013e"
+    },
+    "assets/otros/Danube simulador/star_trek_ds9_danube_runabout_rio_grande_cockpit.zip": {
+      "bytes": 16705517,
+      "sha256": "eac8ce3aeb80ec56fa76bee26248204d5b19db81b10fe461fc7b2f35fb256972"
+    },
+    "assets/otros/hangar/enterprise-corridor.zip": {
+      "bytes": 1050962,
+      "sha256": "1a0b2a418fb0376da6789175a7e1e783f1428c5df58162a6cdda5db836899fa8"
+    },
+    "assets/otros/hangar/enterprise_corridor.glb": {
+      "bytes": 2134976,
+      "sha256": "8d9603eb659ad072432c6f56b0b6c138c48ff6a096149b8e82ac439ded867d83"
+    },
+    "assets/otros/hangar/modular-star-trek-corridor.zip": {
+      "bytes": 3372116,
+      "sha256": "49b87589e3f0530a2b4c18368b9ecedece5abcad0e0e43b8d2c245fc3a9351ed"
+    },
+    "assets/otros/hangar/star_trek_hangar.glb": {
+      "bytes": 4682108,
+      "sha256": "aa699ec658c55324d5a9e094159698cb1576d38643d602cf1ec87e3494ff01f0"
+    },
+    "assets/otros/hangar/Low Poly Corridor - [Star Trek]/low-poly-corridor-star-trek.zip": {
+      "bytes": 1335524,
+      "sha256": "745a029586cddf7b7074f40c82ea70fdf6c2c9a23b8448a2bc5f1f21782d391f"
+    },
+    "assets/otros/hangar/Low Poly Corridor - [Star Trek]/low_poly_corridor_-_star_trek.glb": {
+      "bytes": 1073456,
+      "sha256": "86cd31d6c6b8465cd046393743754963099b7e9cf63d44f2fa3380ebf7170c70"
+    },
+    "assets/otros/hangar/Low Poly Corridor - [Star Trek]/low_poly_corridor_-_star_trek_PBR_Compat_6997a32b7a8d44a8a250f9332cb2f180.glb": {
+      "bytes": 1073832,
+      "sha256": "920170b2cdccbde2a6595a6922590e3bff25837c70309ba01022f9f5f13a2a20"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine.zip": {
+      "bytes": 33813623,
+      "sha256": "5b79133f1b50d7ff7ca74356311f4811f718462b4af5ea6aef05e244b08c1bc6"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine.glb": {
+      "bytes": 36617688,
+      "sha256": "fb31d069a5dd7027c6ac72920acc80bed61178d89e49049b96e5e7c1dd378f02"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine.zip": {
+      "bytes": 35518427,
+      "sha256": "e697750708e1a57474dbd36469660aa93901383d15b2a3f38eff6b8b03c6cc3d"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/source/7of9_sketchfab.fbx": {
+      "bytes": 2714284,
+      "sha256": "3375788ede4f063bd5ab1ac5f097d41b4b95b8166254942dbecfdd47a7de49aa"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_albedo.jpeg": {
+      "bytes": 2189380,
+      "sha256": "4ec758132f772936de1e23c456d30c001071ac773d2948218d1bbdcbd13b8a19"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_AO.jpeg": {
+      "bytes": 1504073,
+      "sha256": "d7652fc8a81eb51e0e58f66134cdef5b2971225cbdefa8e276596424818c6572"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_metallic.jpeg": {
+      "bytes": 175852,
+      "sha256": "113dda0b2e49eca940d582946d0fc14e209ee63a70848fe9d42af4e30ec57eca"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_normal.png": {
+      "bytes": 5255333,
+      "sha256": "66034133ef65631982edf2185f1a7d81b7126fcf11fbeb1e4e14ac3ed308b77f"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_roughness.jpeg": {
+      "bytes": 2349808,
+      "sha256": "0414563c66321d77abfa66655b42b8de44c44ef2360db9f2ca2000331a22106b"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Eyelashes_normal.png": {
+      "bytes": 113794,
+      "sha256": "80d7b3a5566b0dcb55760ed60c285c1f76523adf9c8e488a8c36b2a6d5a341cd"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Eyelashes_opacity.jpeg": {
+      "bytes": 74380,
+      "sha256": "bbb1b2d9f72869516bec8e009e1c74cc7bbef592f1b750cda41431fd36fc4ffb"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_albedo.jpeg": {
+      "bytes": 2956143,
+      "sha256": "0c7d2cc8774c7e59b3b8549b0de03380316e9c46db53268db3e8db7e264478de"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_AO.jpeg": {
+      "bytes": 1583698,
+      "sha256": "5198dd36da41957f4355446c7d5a7d38584ecbbf00a685804f7f8c1b42539dd1"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_normal.png": {
+      "bytes": 4604339,
+      "sha256": "3d22d322cc18e24e9e2a15343aa0aa68437cabca5a1c0a2d83a388ab994c87ea"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_opacity.jpeg": {
+      "bytes": 226761,
+      "sha256": "b142db80a60deacd49f81bd0ed6a9b0ca904023109d4135cf4c9836cac761e82"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_roughness.jpeg": {
+      "bytes": 1342329,
+      "sha256": "5179c4d1e43d67aeb31b54a47a8145e7f6dfb1b068b207173dfe54ddf57fb42e"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_albedo.jpeg": {
+      "bytes": 861699,
+      "sha256": "1dfb5e87b8d65985f58731c2baa910da336f6a285d7546d68469332912312767"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_AO.jpeg": {
+      "bytes": 906163,
+      "sha256": "1dc9594781ac2ea6329ab23dd5dc44470b73aff2e6c5700196c4335f1b34fa32"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_normal.png": {
+      "bytes": 4623247,
+      "sha256": "48a40f6c5180287074737e39fde7d409cfc611ce5cd9a7696dde64f121931a8d"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_roughness.jpeg": {
+      "bytes": 1696795,
+      "sha256": "672c50f5c018dc1bbf77574249dd8b019023ea542afd9883f6e185f8eb93e212"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/eye_albedo.jpeg": {
+      "bytes": 327523,
+      "sha256": "0acd601d55bacdbdfb1fccf89185d6b376615da7a08f9658743d2ff7ef5b1aa1"
+    },
+    "assets/otros/NPC/7 de 9/seven-of-nine/textures/Mough_albedo.jpeg": {
+      "bytes": 305464,
+      "sha256": "9f43169720f1b5b7ffd3ccad10c7d0a7e71b7a40328ecf504ac3161d9e8b2ad6"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/license.txt": {
+      "bytes": 678,
+      "sha256": "dd59b63ad9a971cba7f0ce4af87cab1b04875bdee2141ff929400e8e2c0a5879"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/scene.bin": {
+      "bytes": 1778572,
+      "sha256": "7c577a51574d92207790256b44f1550c9178e941a18a98a8046cae14c6795c14"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/scene.gltf": {
+      "bytes": 137605,
+      "sha256": "2402a656cd48fd368a845bec4cb87ae15d7e9fe47a5b288689abe4bd12cfa90e"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_baseColor.jpeg": {
+      "bytes": 1366559,
+      "sha256": "ba8973c6cb4e3be5173a5f6b3a921f9ae70bffeffddcbe39bfb9f66308215494"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_metallicRoughness.png": {
+      "bytes": 5356434,
+      "sha256": "63c51d09b14a103a8a3863ddec2b5095ce49a5894af4d8e8b5016ba3f1cac302"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_normal.png": {
+      "bytes": 4851306,
+      "sha256": "d801ba860df6f3870dafbe2d4cb2bd3553faad900c4fdac2e186a81e4e8f6c81"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Eyelashes_baseColor.png": {
+      "bytes": 54513,
+      "sha256": "31fe571a6cbb7f78ed747ca7ded523f3bf5be3017393f069c0eff6af0ffd9201"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Eyelashes_normal.png": {
+      "bytes": 105911,
+      "sha256": "41b9111415e9990d3b6d0834c06ae9b8951ef05e57a65c1741ff7a4cb8f88191"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_baseColor.png": {
+      "bytes": 5485934,
+      "sha256": "d087c003bbb8552b94423cbd8a3032885c27308e98e3bf9d38fa0e4d74ea21be"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_metallicRoughness.png": {
+      "bytes": 4143632,
+      "sha256": "5a9fea4ee188645e9682053430f5c4cf2d20a1c200f7b34112fc91829ab165c7"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_normal.png": {
+      "bytes": 4384410,
+      "sha256": "e3ee484d4281d78360b53bd9173954f6a35e796a4e0b592fbe3cab9eb3222d7e"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_baseColor.jpeg": {
+      "bytes": 523995,
+      "sha256": "c46f7198961bf0de74d639b4db47b5d7973767e844653aa833f991784faff27f"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_metallicRoughness.png": {
+      "bytes": 3811507,
+      "sha256": "3865592ee2131947e3c6d1882493f6abb882103941eb5bcc4a63624334007de3"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_normal.png": {
+      "bytes": 4325641,
+      "sha256": "9194b4abfaf51007954016d34d0026fd1724d71f93b62ededbbd334e13c64cc7"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/material_baseColor.jpeg": {
+      "bytes": 181431,
+      "sha256": "016a76991b9713047749d97dfa5bbdc01feff02e62044871a781e986baa513b6"
+    },
+    "assets/otros/NPC/7 de 9/seven_of_nine/textures/Mough_baseColor.jpeg": {
+      "bytes": 168990,
+      "sha256": "551c6a0944ceb84ae731af9b66736ccb28c9d4d61528f03a1d02fd03b36d6b24"
+    },
+    "assets/otros/NPC/Data/ava-data-mashup.zip": {
+      "bytes": 121009493,
+      "sha256": "7745efab0160eb21040fcc47509342ec63ff30966cdb129e62783936b0a50b3c"
+    },
+    "assets/otros/NPC/Data/ava__data_mashup.glb": {
+      "bytes": 81914364,
+      "sha256": "02cbcc93fd1d011e089f9f9192acda768615b5d84719b4bfd317950366f02ec2"
+    },
+    "assets/otros/NPC/Piccard/patrick-stewart-star-trek.zip": {
+      "bytes": 18886500,
+      "sha256": "fa80e638bfafa64659415255f311104136616e6fa67cfe15d1b0057df08e75b1"
+    },
+    "assets/otros/NPC/Piccard/patrick_stewart_star_trek.glb": {
+      "bytes": 7758024,
+      "sha256": "32b6752652b52bcc0720c50b29e2eb7106e13951bb4cdd64d5741eb5d87fcf49"
+    },
+    "assets/otros/NPC/Worf/star-trek-first-contact-worf.zip": {
+      "bytes": 34893583,
+      "sha256": "cad5a7e5873197c7f024bf0df09f9e9c4b95b0ad8965f430632627009f7ea92c"
+    },
+    "assets/otros/NPC/Worf/star_trek_first_contact__worf.glb": {
+      "bytes": 17121032,
+      "sha256": "e0a6e9fd22f3081b62ea0904a0b232d42561349207872b07355c5769a7126437"
+    },
+    "assets/otros/NPC/Worf/star_trek_first_contact__worf.zip": {
+      "bytes": 16702332,
+      "sha256": "3e33ead33586943e28d09f4fedf7d87aa1dc5dea4e8e8fdb4531ad74d3e4e8ce"
+    },
+    "assets/otros/replicator/henry_star_trek_tng_replicator.glb": {
+      "bytes": 658856,
+      "sha256": "3e132ab7359c3a1427923272adcec62029d1da97acfeb83676cd93ee8d3ff3e5"
+    },
+    "assets/otros/ships/class sovereign/star-trek-sovereign-class.zip": {
+      "bytes": 27318729,
+      "sha256": "c410a530e0ecb7a8b26ae13cbe34ea6a923e8c7ec3c626402be3595d9e7b2243"
+    },
+    "assets/otros/ships/class sovereign/star_trek_-_sovereign_class (1).glb": {
+      "bytes": 13767460,
+      "sha256": "f9590c8b4ac2f4c3904f3391fb0b146244b6019a0e0abc33741adab928479fa3"
+    },
+    "assets/otros/ships/class sovereign with hangar/star-trek-sovereign-class-with-shuttlebay.zip": {
+      "bytes": 21678891,
+      "sha256": "4cdecd9c8f90bed7242bb5bec44fa709359fb05c3607c9e8bada18c97a942465"
+    },
+    "assets/otros/ships/class sovereign with hangar/star_trek_sovereign_class_with_shuttlebay.glb": {
+      "bytes": 11369372,
+      "sha256": "b21eecdcaf522b474379cde7257942a03a221df1a911a146f348d35962da136a"
+    },
+    "assets/otros/ships/class sovereign with hangar/star_trek_sovereign_class_with_shuttlebay.zip": {
+      "bytes": 8650534,
+      "sha256": "a65c3c417f36b85f3c2e17ed8333b3859b9b7d008bb23c77ee9bf9a15d7efc44"
+    },
+    "assets/otros/universe/planets/green-planet.zip": {
+      "bytes": 55597319,
+      "sha256": "aa38be7f3a7c61cd7f7c9c65b19452f27e521f3cc3437be85df145ea0fd16a1d"
+    },
+    "assets/otros/universe/planets/green_planet.glb": {
+      "bytes": 45654432,
+      "sha256": "3d257875de5c8fac12958713ae31c62f0960916fbdcfe0ddb940cd30f220e87d"
+    },
+    "assets/otros/universe/planets/jupiter-free-downloadable-model.zip": {
+      "bytes": 6539134,
+      "sha256": "0fb1b278e2873441cb9ed1cfe035a528c2dfdda25f848297f368c19ae96afcfb"
+    },
+    "assets/otros/universe/planets/photorealistic-moon.zip": {
+      "bytes": 83206696,
+      "sha256": "b717ef442d201b95eb28746d93160c5367276711b65349df079b9140005c4801"
+    },
+    "assets/otros/universe/planets/planet-earth.zip": {
+      "bytes": 47371179,
+      "sha256": "37989d9d65c35b49d5b8f3889d9cf9477b272c106bc8f448945df22e18fb064b"
+    },
+    "assets/otros/universe/planets/planet-venus.zip": {
+      "bytes": 22865813,
+      "sha256": "f8b93c313bfad39d8aff4554046d1b584698e0ed5c9ae9886bb1cf34f173ae87"
+    },
+    "assets/otros/universe/planets/planet_earth (2).glb": {
+      "bytes": 18402500,
+      "sha256": "ef1a24ca2fa3db9cc4ecae15d4451515194b1d5355d87b912e456de0a2f64efc"
+    },
+    "assets/otros/universe/planets/planet_venus.glb": {
+      "bytes": 12372180,
+      "sha256": "ef3c2119ccd90472853f2712daf629729f720e9a77e524aa2b56f49f68d7756d"
+    },
+    "assets/otros/universe/planets/saturn-planet.zip": {
+      "bytes": 2860455,
+      "sha256": "8121820ce1ca4f314669b5a4f93a679b1968280c6f6096263337282e4d8a2ced"
+    },
+    "assets/otros/universe/planets/various-planets.zip": {
+      "bytes": 101877818,
+      "sha256": "ba0c3c482794c830ee2adc9e430089952b984c1bff85b409713e2015005e751b"
+    },
+    "assets/otros/universe/stars/solar_prominence.glb": {
+      "bytes": 67183972,
+      "sha256": "755e6aa606325ff29eddfc56b5843272b2826145add869d62d6992b79f3cf9be"
+    },
+    "assets/otros/universe/stars/solar_system_animation.glb": {
+      "bytes": 10637572,
+      "sha256": "4f9326223248c2e53b05ad3f8c19330d4292db24332e4c2e98cd3691875f174a"
+    },
+    "assets/otros/universe/stars/solar-prominence/source/0000000.blend": {
+      "bytes": 144532616,
+      "sha256": "7bba5460b9c2bc87d0516064fbe6ed47744ba6e26cd39afd4396caf2aa251738"
+    },
+    "assets/otros/universe/stars/solar-prominence/textures/500_(4).jpeg": {
+      "bytes": 98758,
+      "sha256": "330275b90782edd6021295530849624dbfa180bfbb5a6976f7c6142edaff18df"
+    },
+    "assets/otros/universe/stars/solar-prominence/textures/500_(7).jpeg": {
+      "bytes": 77473,
+      "sha256": "140bd71926164d77e8ffb920e078c0e12a97c3f0480a81fc61811a2d8b30533d"
+    },
+    "assets/otros/universe/stars/solar-prominence/textures/86133191-abstract-halftone-random-white-do.jpeg": {
+      "bytes": 1132378,
+      "sha256": "fe5170a0cedc8cf968b8ec00ac17b8970d8655d81f30d5f15c74c47bed278467"
+    },
+    "assets/otros/universe/stars/solar-system-animation/source/Solar System.blend": {
+      "bytes": 4648554,
+      "sha256": "5fbd65bd18f23b1f22202f8049069e1ccd8ed6d37f75281df37fc1ce5e702e47"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_earth_daymap.jpg": {
+      "bytes": 463087,
+      "sha256": "767ee1dc6eb3802699bfccf6f264880f8acd0b80de3191cd24984fe279b07b7c"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_jupiter.jpg": {
+      "bytes": 498976,
+      "sha256": "b0f04d005350252636b0e3396fc592548cbd9e9126b269d32d5c6abd4b0e4f2b"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_mars.jpg": {
+      "bytes": 750547,
+      "sha256": "2d187f3e77a98eaa8cea5f4cc722f633c122ef170b9e94ace6b5fb6cbc3f8e01"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_mercury.jpg": {
+      "bytes": 872555,
+      "sha256": "5a5c80607f643496bac9a631e71957def35ed788895f18b678ac849c2b38e48a"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_moon.jpg": {
+      "bytes": 1053869,
+      "sha256": "2764ba6535ea0481a062846ee033cc7a909dae05b31a8fd13f3e98f3a7fd92bd"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_neptune.jpg": {
+      "bytes": 241580,
+      "sha256": "cb42ea82709741d28b0af44d8b283cbc6dbd0c521a7f0e1e1e010ade00977df6"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_saturn.jpg": {
+      "bytes": 199916,
+      "sha256": "54a900ca9bf7ab62e70f862852759abdf342e6d6436a95a2fe9ebdb6bcd3bbac"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_saturn_ring_alpha.png": {
+      "bytes": 12119,
+      "sha256": "4b0644b2f3ef259fd0bfaedd9dc52f9e7d9738f65f50363e8c4dd19f650d7334"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_sun.jpg": {
+      "bytes": 822427,
+      "sha256": "ff0f076ba65e03b5ab518451bc96699325be38e3ccbdd5869ee1c00f3a0c8816"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_uranus.jpg": {
+      "bytes": 77751,
+      "sha256": "d15239d46f82d3ea13d2b260b5b29b2a382f42f2916dae0694d0387b1204a09d"
+    },
+    "assets/otros/universe/stars/solar-system-animation/textures/2k_venus_surface.jpg": {
+      "bytes": 885075,
+      "sha256": "dbe5db1c794a8ab4cbf7dd6bf193540c400fc833ce1e6cc399318aa68026278b"
+    },
+    "assets/otros/vehicles/rover/argo-ii-type-rover-star-trek-zeo.zip": {
+      "bytes": 71403650,
+      "sha256": "db95834d6f1987714270e083206d5612d068ad609807ff441248a71f88c8fcd8"
+    },
+    "assets/otros/vehicles/rover/argo_ii_type_rover_star_trek_zeo.glb": {
+      "bytes": 92734984,
+      "sha256": "7bbbd489d1c71096a1c0fb008f5c0d2c2809497e523eb5076d28b564142aeea0"
+    },
+    "assets/otros/vehicles/rover/argo_ii_type_rover_star_trek_zeo.zip": {
+      "bytes": 56113365,
+      "sha256": "72108f548a7635b3cf68c2c94e4d819bb1498dcf070e5a3b03a749ba4e2ac5e7"
+    },
+    "assets/uss_theurgy/imagenes_puente/.gitkeep": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "assets/uss_theurgy/imagenes_puente/45 grados.png": {
+      "bytes": 345715,
+      "sha256": "57eb4822ae18146cd65826e65eddcdd7844d1ea902fef9939278c2fcdaf9c463"
+    },
+    "assets/uss_theurgy/imagenes_puente/Anexo 2.png": {
+      "bytes": 2036967,
+      "sha256": "d1268913a8f67caf7df76f9b043a3645afc4a4b55d4a06c6d27d068e65aef6c5"
+    },
+    "assets/uss_theurgy/imagenes_puente/Anexo.png": {
+      "bytes": 1773938,
+      "sha256": "090c7ee26e6a62d7163d170077a533f785f6c3a4fd3d44731a72fd4759cf53d1"
+    },
+    "assets/uss_theurgy/imagenes_puente/Back view.png": {
+      "bytes": 1035652,
+      "sha256": "3b4d962a7df16e7c57b3bf1e3102efacb28e76b61789eb986516245273c8e7c2"
+    },
+    "assets/uss_theurgy/imagenes_puente/Consola CONN y vuelo.png": {
+      "bytes": 1257285,
+      "sha256": "fcf818aa002c1030f263b6549365fffa441f6bb65b2b009e7d3f8ee1d7fd6d0a"
+    },
+    "assets/uss_theurgy/imagenes_puente/Consola lateral 2.png": {
+      "bytes": 2289563,
+      "sha256": "4573189a71d160d293dfd03cf93591d645215bf59da758563a01cf0adc1e6fac"
+    },
+    "assets/uss_theurgy/imagenes_puente/Consola lateral.png": {
+      "bytes": 997912,
+      "sha256": "f662505dbc32e54120579b381f1e95d5776eceb1fef4dcff752733f8824b3b26"
+    },
+    "assets/uss_theurgy/imagenes_puente/frontal.png": {
+      "bytes": 406971,
+      "sha256": "9f0794ca2849aa81604f586e8b0fb949fa84204688ad200dcb4f8f1e0d6b2994"
+    },
+    "assets/uss_theurgy/imagenes_puente/Silla capitan.png": {
+      "bytes": 1449180,
+      "sha256": "bc57e914ddbae86575ca4320e98644f1cb3b7a4644a59ce90321d60283a1b0be"
+    },
+    "assets/uss_theurgy/imagenes_puente/zenital.png": {
+      "bytes": 483104,
+      "sha256": "7dc7e7b59a4b2917bd01b623675331213dc565be2bb00819f02f7ee7ac4135bd"
+    },
+    "assets/uss_theurgy/planos/.gitkeep": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  },
+  "ue5_tested": false,
+  "commit_or_push_performed": false,
+  "final_measurements": "fase3_rutas_v4/MEDICIONES_FASE3.json",
+  "preliminary_reports_preserved": "temp/fase3_resultados_preliminares/",
+  "graphics_final": "output/capturas_revision/fase3_graficos_v2/"
+}
