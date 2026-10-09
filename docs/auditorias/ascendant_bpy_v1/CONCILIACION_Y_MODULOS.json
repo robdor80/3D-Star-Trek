@@ -1,0 +1,1064 @@
+{
+  "schema": "ascendant-reconciliation-v1",
+  "dae_source_expanded_triangles": 2467208,
+  "dae_discarded_faces": [
+    {
+      "mesh": "ID1585",
+      "source_triangles": 900,
+      "imported_triangles": 894,
+      "discarded": 6,
+      "source_triangles_repeated_vertex_indices": 0,
+      "source_duplicate_index_triplets_ignore_winding": 6,
+      "object_instances": 1
+    },
+    {
+      "mesh": "ID1675",
+      "source_triangles": 2466,
+      "imported_triangles": 2450,
+      "discarded": 16,
+      "source_triangles_repeated_vertex_indices": 0,
+      "source_duplicate_index_triplets_ignore_winding": 16,
+      "object_instances": 1
+    },
+    {
+      "mesh": "ID7076",
+      "source_triangles": 900,
+      "imported_triangles": 894,
+      "discarded": 6,
+      "source_triangles_repeated_vertex_indices": 0,
+      "source_duplicate_index_triplets_ignore_winding": 6,
+      "object_instances": 1
+    },
+    {
+      "mesh": "ID7166",
+      "source_triangles": 2466,
+      "imported_triangles": 2450,
+      "discarded": 16,
+      "source_triangles_repeated_vertex_indices": 0,
+      "source_duplicate_index_triplets_ignore_winding": 16,
+      "object_instances": 1
+    },
+    {
+      "mesh": "ID11772",
+      "source_triangles": 13818,
+      "imported_triangles": 13806,
+      "discarded": 12,
+      "source_triangles_repeated_vertex_indices": 12,
+      "source_duplicate_index_triplets_ignore_winding": 0,
+      "object_instances": 1
+    },
+    {
+      "mesh": "ID11957",
+      "source_triangles": 13818,
+      "imported_triangles": 13806,
+      "discarded": 12,
+      "source_triangles_repeated_vertex_indices": 12,
+      "source_duplicate_index_triplets_ignore_winding": 0,
+      "object_instances": 1
+    },
+    {
+      "mesh": "ID21920",
+      "source_triangles": 13818,
+      "imported_triangles": 13806,
+      "discarded": 12,
+      "source_triangles_repeated_vertex_indices": 12,
+      "source_duplicate_index_triplets_ignore_winding": 0,
+      "object_instances": 1
+    },
+    {
+      "mesh": "ID22105",
+      "source_triangles": 13818,
+      "imported_triangles": 13806,
+      "discarded": 12,
+      "source_triangles_repeated_vertex_indices": 12,
+      "source_duplicate_index_triplets_ignore_winding": 0,
+      "object_instances": 1
+    }
+  ],
+  "glb_source_repeated_index_triangles": 0,
+  "glb_source_duplicate_index_triplets_ignore_winding": 98,
+  "glb_discarded_triangles": 98,
+  "dae_import_does_not_preserve_source_lines": true,
+  "uv": {
+    "glb": {
+      "meshes_with_uv": 9,
+      "mesh_datablocks_textured_but_no_uv": [],
+      "uv_layer_names": [
+        "UVMap"
+      ]
+    },
+    "dae": {
+      "meshes_with_uv": 152,
+      "mesh_datablocks_textured_but_no_uv": [],
+      "uv_layer_names": [
+        "UVMap"
+      ]
+    }
+  },
+  "modules": [
+    {
+      "name": "instance_193",
+      "id": "ASC-DAE-4fc669c56e73",
+      "parent": "group_0",
+      "subtree_mesh_objects": 141,
+      "unique_meshes": 137,
+      "triangles_expanded": 72280,
+      "bbox_m": {
+        "min": [
+          -0.49689887216226614,
+          3.4766361706825717,
+          0.430000235869046
+        ],
+        "max": [
+          0.48712845168139624,
+          4.349529738778687,
+          1.7573605399707617
+        ],
+        "size": [
+          0.9840273238436623,
+          0.872893568096115,
+          1.3273603041017157
+        ],
+        "center": [
+          -0.004885210240434951,
+          3.913082954730629,
+          1.0936803879199037
+        ]
+      },
+      "materials_used": [
+        "ID1065",
+        "ID17",
+        "ID21387",
+        "ID444",
+        "ID62",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 76,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_75",
+      "id": "ASC-DAE-72f647d2be51",
+      "parent": "Group_26",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          -1.2300820942875017,
+          1.0870880242294223,
+          0.27000024914741516
+        ],
+        "max": [
+          -0.497102982786108,
+          1.8112567978367862,
+          1.3620304355770694
+        ],
+        "size": [
+          0.7329791115013937,
+          0.7241687736073639,
+          1.0920301864296542
+        ],
+        "center": [
+          -0.8635925385368048,
+          1.4491724110331043,
+          0.8160153423622423
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 61,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_75-001",
+      "id": "ASC-DAE-0542ce6f7fc9",
+      "parent": "Group_26-001",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          0.49679446914475056,
+          1.0870880467254573,
+          0.2700001299381256
+        ],
+        "max": [
+          1.2297735806461443,
+          1.8112568563989124,
+          1.3620302622392946
+        ],
+        "size": [
+          0.7329791115013937,
+          0.7241688096734551,
+          1.092030132301169
+        ],
+        "center": [
+          0.8632840248954474,
+          1.4491724515621849,
+          0.8160151960887101
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 61,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_185",
+      "id": "ASC-DAE-48ceb31fafcc",
+      "parent": "Component_30",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          -9.324395179748535,
+          -1.3635288825751721,
+          0.4300001561641693
+        ],
+        "max": [
+          -8.58893066416463,
+          -0.6223239215883569,
+          1.522030234336853
+        ],
+        "size": [
+          0.7354645155839048,
+          0.7412049609868152,
+          1.0920300781726837
+        ],
+        "center": [
+          -8.956662921956582,
+          -0.9929264020817645,
+          0.9760151952505112
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_185-001",
+      "id": "ASC-DAE-f4b19beb1612",
+      "parent": "Component_30-001",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          8.588934478861896,
+          -1.3635289074334573,
+          0.4300007536682299
+        ],
+        "max": [
+          9.3243989944458,
+          -0.6223239325385049,
+          1.5220308729705843
+        ],
+        "size": [
+          0.7354645155839048,
+          0.7412049748949524,
+          1.0920301193023545
+        ],
+        "center": [
+          8.956666736653847,
+          -0.9929264199859811,
+          0.976015813319407
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_185.001",
+      "id": "ASC-DAE-68b2f8062b6f",
+      "parent": "Component_30.001",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          -4.372611569807829,
+          5.584050958872652,
+          0.4300001561641693
+        ],
+        "max": [
+          -3.6176318622608705,
+          6.329428764403826,
+          1.522030234336853
+        ],
+        "size": [
+          0.7549797075469589,
+          0.7453778055311737,
+          1.0920300781726837
+        ],
+        "center": [
+          -3.99512171603435,
+          5.956739861638239,
+          0.9760151952505112
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_185-001.001",
+      "id": "ASC-DAE-0a5bbaa74458",
+      "parent": "Component_30-001.001",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          3.617635676958136,
+          5.584050900310525,
+          0.4300014218932875
+        ],
+        "max": [
+          4.372615384505095,
+          6.329428741907794,
+          1.522031486690245
+        ],
+        "size": [
+          0.7549797075469589,
+          0.7453778415972687,
+          1.0920300647969574
+        ],
+        "center": [
+          3.995125530731616,
+          5.95673982110916,
+          0.9760164542917662
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_187",
+      "id": "ASC-DAE-825fd67185a7",
+      "parent": "Component_30",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          -8.720565979660963,
+          -3.1344759922710614,
+          0.4300001561641693
+        ],
+        "max": [
+          -7.890150325763636,
+          -2.2868406437851116,
+          1.522030234336853
+        ],
+        "size": [
+          0.8304156538973269,
+          0.8476353484859498,
+          1.0920300781726837
+        ],
+        "center": [
+          -8.3053581527123,
+          -2.7106583180280865,
+          0.9760151952505112
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_187-001",
+      "id": "ASC-DAE-f0ba240511b0",
+      "parent": "Component_30-001",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          7.8901541404609015,
+          -3.1344760154622335,
+          0.43000066881154914
+        ],
+        "max": [
+          8.720569794358228,
+          -2.28684065473526,
+          1.5220308149885768
+        ],
+        "size": [
+          0.8304156538973269,
+          0.8476353607269735,
+          1.0920301461770276
+        ],
+        "center": [
+          8.305361967409565,
+          -2.7106583350987465,
+          0.976015741900063
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_187.001",
+      "id": "ASC-DAE-64856f9ed9b1",
+      "parent": "Component_30.001",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          -6.11357185401678,
+          4.8323302000796,
+          0.4300001561641693
+        ],
+        "max": [
+          -5.263346863311018,
+          5.664840654936064,
+          1.522030234336853
+        ],
+        "size": [
+          0.8502249907057626,
+          0.8325104548564646,
+          1.0920300781726837
+        ],
+        "center": [
+          -5.6884593586638985,
+          5.248585427507832,
+          0.9760151952505112
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_187-001.001",
+      "id": "ASC-DAE-36790d0a2d1a",
+      "parent": "Component_30-001.001",
+      "subtree_mesh_objects": 72,
+      "unique_meshes": 72,
+      "triangles_expanded": 30120,
+      "bbox_m": {
+        "min": [
+          5.263350678008283,
+          4.832330142377845,
+          0.4300013583734748
+        ],
+        "max": [
+          6.113575668714046,
+          5.664840632140128,
+          1.5220314200461453
+        ],
+        "size": [
+          0.8502249907057626,
+          0.8325104897622824,
+          1.0920300616726706
+        ],
+        "center": [
+          5.688463173361164,
+          5.248585387258986,
+          0.97601638920981
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 72,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "group_1",
+      "id": "ASC-DAE-277b6dd5b663",
+      "parent": "group_0",
+      "subtree_mesh_objects": 1744,
+      "unique_meshes": 1322,
+      "triangles_expanded": 321408,
+      "bbox_m": {
+        "min": [
+          -2.0985381603240967,
+          0.15066271449893498,
+          -0.019999921321868896
+        ],
+        "max": [
+          2.0982296466827393,
+          1.8112568563989124,
+          1.4008456777077147
+        ],
+        "size": [
+          4.196767807006836,
+          1.6605941418999774,
+          1.4208455990295836
+        ],
+        "center": [
+          -0.00015425682067871094,
+          0.9809597854489237,
+          0.6904228781929229
+        ]
+      },
+      "materials_used": [
+        "ID10",
+        "ID1065",
+        "ID17",
+        "ID253",
+        "ID3227",
+        "ID3339",
+        "ID3377",
+        "ID444",
+        "ID5117",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 334,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_9",
+      "id": "ASC-DAE-04ddea3f269a",
+      "parent": "group_1",
+      "subtree_mesh_objects": 774,
+      "unique_meshes": 726,
+      "triangles_expanded": 152112,
+      "bbox_m": {
+        "min": [
+          -2.0985381603240967,
+          0.1637167504136367,
+          -0.019999880885635646
+        ],
+        "max": [
+          -0.06751284113269485,
+          1.8112567978367862,
+          1.4008456777077147
+        ],
+        "size": [
+          2.031025319191402,
+          1.6475400474231494,
+          1.4208455585933504
+        ],
+        "center": [
+          -1.0830255007283958,
+          0.9874867741252115,
+          0.6904228984110395
+        ]
+      },
+      "materials_used": [
+        "ID1065",
+        "ID17",
+        "ID253",
+        "ID3227",
+        "ID3339",
+        "ID3377",
+        "ID444",
+        "ID5117",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 434,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_80",
+      "id": "ASC-DAE-440eff3720bd",
+      "parent": "group_1",
+      "subtree_mesh_objects": 774,
+      "unique_meshes": 726,
+      "triangles_expanded": 152112,
+      "bbox_m": {
+        "min": [
+          0.06720429768901504,
+          0.1637167866381309,
+          -0.01999989578679684
+        ],
+        "max": [
+          2.0982296466827393,
+          1.8112568563989124,
+          1.4008456175794815
+        ],
+        "size": [
+          2.0310253489937242,
+          1.6475400697607816,
+          1.4208455133662783
+        ],
+        "center": [
+          1.0827169721858771,
+          0.9874868215185216,
+          0.6904228608963423
+        ]
+      },
+      "materials_used": [
+        "ID1065",
+        "ID17",
+        "ID253",
+        "ID3227",
+        "ID3339",
+        "ID3377",
+        "ID444",
+        "ID5117",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 434,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_11",
+      "id": "ASC-DAE-38130069d6ce",
+      "parent": "Group_26",
+      "subtree_mesh_objects": 12,
+      "unique_meshes": 12,
+      "triangles_expanded": 2586,
+      "bbox_m": {
+        "min": [
+          -1.719152569770813,
+          0.16383905944071323,
+          -0.019999835499548174
+        ],
+        "max": [
+          -0.28340175215446095,
+          0.9504863657878412,
+          0.9959528555151921
+        ],
+        "size": [
+          1.435750817616352,
+          0.786647306347128,
+          1.0159526910147403
+        ],
+        "center": [
+          -1.001277160962637,
+          0.5571627126142772,
+          0.48797651000782194
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID253",
+        "ID75"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 0,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_11-001",
+      "id": "ASC-DAE-4ad441844d7f",
+      "parent": "Group_26-001",
+      "subtree_mesh_objects": 12,
+      "unique_meshes": 12,
+      "triangles_expanded": 2586,
+      "bbox_m": {
+        "min": [
+          0.28309323851310353,
+          0.16383909551720874,
+          -0.019999849470244066
+        ],
+        "max": [
+          1.7188440561294556,
+          0.9504864113941001,
+          0.9959527874020395
+        ],
+        "size": [
+          1.435750817616352,
+          0.7866473158768913,
+          1.0159526368722835
+        ],
+        "center": [
+          1.0009686473212795,
+          0.5571627534556544,
+          0.48797646896589775
+        ]
+      },
+      "materials_used": [
+        "ID17",
+        "ID253",
+        "ID75"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 0,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "group_11",
+      "id": "ASC-DAE-864e8f018132",
+      "parent": "group_0",
+      "subtree_mesh_objects": 221,
+      "unique_meshes": 209,
+      "triangles_expanded": 15080,
+      "bbox_m": {
+        "min": [
+          -10.676846504224063,
+          -8.150265684414316,
+          2.849997563175221
+        ],
+        "max": [
+          10.676850318896054,
+          8.15026379556615,
+          3.8802984744049787
+        ],
+        "size": [
+          21.353696823120117,
+          16.30052947998047,
+          1.0303009112297579
+        ],
+        "center": [
+          1.9073359958099445e-06,
+          -9.444240829381556e-07,
+          3.3651480187900997
+        ]
+      },
+      "materials_used": [
+        "ID10365",
+        "ID17",
+        "ID444",
+        "ID62",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 0,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "group_16",
+      "id": "ASC-DAE-05b0f979beca",
+      "parent": "Component_19",
+      "subtree_mesh_objects": 18,
+      "unique_meshes": 18,
+      "triangles_expanded": 2018,
+      "bbox_m": {
+        "min": [
+          -4.48057746887207,
+          -7.182989597320557,
+          -0.04999995231628418
+        ],
+        "max": [
+          -0.15211248397827148,
+          6.249949932098389,
+          0.43000009655952454
+        ],
+        "size": [
+          4.328464984893799,
+          13.432939529418945,
+          0.4800000488758087
+        ],
+        "center": [
+          -2.316344976425171,
+          -0.466519832611084,
+          0.19000007212162018
+        ]
+      },
+      "materials_used": [
+        "ID15235"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 0,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "group_16-001",
+      "id": "ASC-DAE-c286aacf02d1",
+      "parent": "Component_19-001",
+      "subtree_mesh_objects": 18,
+      "unique_meshes": 18,
+      "triangles_expanded": 2018,
+      "bbox_m": {
+        "min": [
+          0.1521162986755371,
+          -7.182989599943239,
+          -0.04999986663459116
+        ],
+        "max": [
+          4.480581283569336,
+          6.24994989275813,
+          0.4300013565860726
+        ],
+        "size": [
+          4.328464984893799,
+          13.432939492701369,
+          0.48000122322066374
+        ],
+        "center": [
+          2.3163487911224365,
+          -0.46651985359255477,
+          0.1900007449757407
+        ]
+      },
+      "materials_used": [
+        "ID15235"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 0,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "instance_89",
+      "id": "ASC-DAE-22e863c4dd08",
+      "parent": "group_0",
+      "subtree_mesh_objects": 1,
+      "unique_meshes": 1,
+      "triangles_expanded": 160,
+      "bbox_m": {
+        "min": [
+          -8.796053886413574,
+          -8.15026569366455,
+          0.31000006198883057
+        ],
+        "max": [
+          8.796055793762207,
+          -4.614778757095337,
+          2.850000023841858
+        ],
+        "size": [
+          17.59210968017578,
+          3.535486936569214,
+          2.5399999618530273
+        ],
+        "center": [
+          9.5367431640625e-07,
+          -6.382522225379944,
+          1.5800000429153442
+        ]
+      },
+      "materials_used": [
+        "ID11616"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 0,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "Component_27",
+      "id": "ASC-DAE-ecb86e5c7232",
+      "parent": "instance_123",
+      "subtree_mesh_objects": 125,
+      "unique_meshes": 125,
+      "triangles_expanded": 7788,
+      "bbox_m": {
+        "min": [
+          -9.862748923930354,
+          0.31325288477814794,
+          0.43000006675720215
+        ],
+        "max": [
+          -9.025464047104132,
+          1.5016591220154218,
+          2.8499999046325684
+        ],
+        "size": [
+          0.8372848768262227,
+          1.188406237237274,
+          2.419999837875366
+        ],
+        "center": [
+          -9.444106485517242,
+          0.9074560033967849,
+          1.6399999856948853
+        ]
+      },
+      "materials_used": [
+        "ID14724",
+        "ID17",
+        "ID444",
+        "ID62",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 125,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "Component_27-001",
+      "id": "ASC-DAE-e332a0e24ff0",
+      "parent": "instance_123-001",
+      "subtree_mesh_objects": 125,
+      "unique_meshes": 125,
+      "triangles_expanded": 7788,
+      "bbox_m": {
+        "min": [
+          9.025467861801397,
+          0.31325288477814794,
+          0.4300007921503247
+        ],
+        "max": [
+          9.86275273862762,
+          1.5016591220154218,
+          2.850000694289025
+        ],
+        "size": [
+          0.8372848768262227,
+          1.188406237237274,
+          2.4199999021387004
+        ],
+        "center": [
+          9.444110300214508,
+          0.9074560033967849,
+          1.6400007432196748
+        ]
+      },
+      "materials_used": [
+        "ID14724",
+        "ID17",
+        "ID444",
+        "ID62",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 125,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "Component_19",
+      "id": "ASC-DAE-c564ab6f4ecc",
+      "parent": "instance_90",
+      "subtree_mesh_objects": 5040,
+      "unique_meshes": 1434,
+      "triangles_expanded": 1029094,
+      "bbox_m": {
+        "min": [
+          -10.676846504211426,
+          -8.15026569366455,
+          -0.6799999475479126
+        ],
+        "max": [
+          0.0,
+          8.150263786315918,
+          3.7042576968236727
+        ],
+        "size": [
+          10.676846504211426,
+          16.30052947998047,
+          4.384257644371585
+        ],
+        "center": [
+          -5.338423252105713,
+          -9.5367431640625e-07,
+          1.51212887463788
+        ]
+      },
+      "materials_used": [
+        "ID10365",
+        "ID1065",
+        "ID11640",
+        "ID14724",
+        "ID15235",
+        "ID15387",
+        "ID17",
+        "ID21019",
+        "ID444",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 841,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    },
+    {
+      "name": "Component_19-001",
+      "id": "ASC-DAE-4546e35359c6",
+      "parent": "instance_199",
+      "subtree_mesh_objects": 5040,
+      "unique_meshes": 1434,
+      "triangles_expanded": 1029094,
+      "bbox_m": {
+        "min": [
+          3.814697265625e-06,
+          -8.150265780213084,
+          -0.6799999475479126
+        ],
+        "max": [
+          10.676850318908691,
+          8.150263786315918,
+          3.704258260319986
+        ],
+        "size": [
+          10.676846504211426,
+          16.300529566529,
+          4.384258207867898
+        ],
+        "center": [
+          5.3384270668029785,
+          -9.969485832428404e-07,
+          1.5121291563860366
+        ]
+      },
+      "materials_used": [
+        "ID10365",
+        "ID1065",
+        "ID11640",
+        "ID14724",
+        "ID15235",
+        "ID15387",
+        "ID17",
+        "ID21019",
+        "ID444",
+        "ID62",
+        "ID6702",
+        "ID75",
+        "ID88"
+      ],
+      "mesh_datablocks_shared_outside_subtree": 841,
+      "technical_independence": "subárbol seleccionable confirmado; función candidata"
+    }
+  ],
+  "limits": "Subárboles se solapan en la tabla; no sumar todos. Compartir malla/material transmite ediciones de datos; transformar padre independiente no edita esa malla."
+}

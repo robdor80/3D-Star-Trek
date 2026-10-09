@@ -1,0 +1,74 @@
+{
+  "schema": "ascendant-glb-vs-dae-v1",
+  "comparison_only_within_ascendant": true,
+  "glb_source_sha256": "6104f05cd5ad9711bb99ff956e356c97c0c3dc9c9ccecf33ba3e23a00f7b7608",
+  "dae_source_sha256": "a92ab06e60b8b9a0c099dd4767cf7a1a29e47f83df37f9209082ed45ba5298ac",
+  "analysis_glb_factor_m": 0.0254,
+  "actual_global_transform_applied": false,
+  "triangles_glb_imported": 2466519,
+  "triangles_dae_imported": 2467116,
+  "triangle_count_delta_dae_minus_glb": 597,
+  "triangle_vertices_quantization_m": 0.0001,
+  "canonical_triangle_multiset_matches": 2255105,
+  "glb_nonmatching_keys_count": 211414,
+  "dae_nonmatching_keys_count": 212011,
+  "limitations": "Ignora winding y materiales en huella espacial. Coincidencia a grid 0.1 mm no prueba igualdad exacta; desacuerdos pueden proceder del redondeo en límites. No se interpreta todo desacuerdo como pérdida de superficie.",
+  "glb_bbox_m": {
+    "min": [
+      -10.676847521972656,
+      -8.150266370568536,
+      -0.6800010941066427
+    ],
+    "max": [
+      10.676849072265625,
+      8.150266662127327,
+      3.8802995076177482
+    ],
+    "size": [
+      21.35369659423828,
+      16.300533032695864,
+      4.560300601724391
+    ],
+    "center": [
+      7.751464847771672e-07,
+      1.45779395666068e-07,
+      1.6001492067555527
+    ]
+  },
+  "dae_bbox_m": {
+    "min": [
+      -10.676846504224063,
+      -8.150265780213084,
+      -0.6799999475479126
+    ],
+    "max": [
+      10.676850318908691,
+      8.15026379556615,
+      3.8802984744049787
+    ],
+    "size": [
+      21.353696823132754,
+      16.300529575779237,
+      4.560298421952892
+    ],
+    "center": [
+      1.9073423143112223e-06,
+      -9.923234669528824e-07,
+      1.600149263428533
+    ]
+  },
+  "glb_surface_area_m2": 3375.550539425176,
+  "dae_surface_area_m2": 3375.79510216963,
+  "scenes": {
+    "glb": {
+      "path": "blender/analisis/ascendant_v1/ascendant_glb_analisis.blend",
+      "sha256": "39052b4e1232773f9bbe52db68cb1c0a33bab39f48999ba82f0e9731f56f7e69"
+    },
+    "dae": {
+      "path": "blender/analisis/ascendant_v1/ascendant_dae_analisis.blend",
+      "sha256": "519b7905a663b6ab0a2f621d53af71979dbb91cd79a2c59fdae6af1fcc47a8ea"
+    }
+  },
+  "originals_sha256_verified_after_import": true,
+  "other_scenes_hashes_unchanged": true
+}
