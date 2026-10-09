@@ -1,0 +1,20 @@
+{
+  "source_blend_sha256_before": "0a55058552623995200fd5e16ddc327d5a6b2f6c54bbb9754f8340d01c885148",
+  "source_blend_sha256_after": "0a55058552623995200fd5e16ddc327d5a6b2f6c54bbb9754f8340d01c885148",
+  "source_blend_bytes": 21386736,
+  "assets_baseline_checked": 81,
+  "assets_baseline_content_changed": [],
+  "assets_baseline_missing": [],
+  "packed_images_sha_matching_source": 20,
+  "capture_files": 24,
+  "selection_test": {
+    "by_name": "Captain_s_Chair_1",
+    "by_id": "ENT-9f29509575b8",
+    "same_members": 17,
+    "background_frame_ui_tested": false
+  },
+  "script_syntax_checked": true,
+  "git_branch": "audit/inventario-inicial-3d",
+  "preexisting_tracked_change": "D output/exportaciones/.gitkeep",
+  "date_madrid": "2026-10-10"
+}

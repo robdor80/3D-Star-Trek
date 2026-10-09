@@ -21,6 +21,8 @@ Thumbs.db
 /assets/uss_theurgy/planos/*
 !/assets/uss_theurgy/planos/.gitkeep
 /assets/otros/
+# Escenas Blender - almacenamiento local
+*.blend
 
 # Copias de seguridad, pruebas y exportaciones generadas
 /blender/backups/*
