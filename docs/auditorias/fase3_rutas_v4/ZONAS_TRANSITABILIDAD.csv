@@ -1,0 +1,15 @@
+﻿zona,clasificacion,coordenadas_xy,cota_variacion_m,muestras_libres,muestras_total,salto_max_m,prueba_ue5,evidencia
+frontal_libre,TRANSITABLE YA,"[[0, -4.5], [0, -2], [0, -0.6]]",1.1920928955078125e-07,196,196,1.1920928955078125e-07,PENDIENTE,MEDICIONES_FASE3.json/routes/frontal_libre
+CONN_izquierda,TRANSITABLE CON AJUSTES,"[[-3, -1], [-3, 2], [-1.2, 3.5], [-1.2, 4.7]]",0.45000022649765015,234,330,0.28999993205070496,PENDIENTE,MEDICIONES_FASE3.json/routes/CONN_izquierda
+CONN_derecha,TRANSITABLE CON AJUSTES,"[[3, -1], [3, 2], [1.2, 3.5], [1.2, 4.7]]",0.45000070333480835,234,330,0.28999990224838257,PENDIENTE,MEDICIONES_FASE3.json/routes/CONN_derecha
+tras_CONN_a_capitan,TRANSITABLE CON AJUSTES,"[[0, 2.3], [0, 3.8]]",0.16000014543533325,62,76,0.16000014543533325,PENDIENTE,MEDICIONES_FASE3.json/routes/tras_CONN_a_capitan
+rodear_capitan_izq,TRANSITABLE YA,"[[-1.2, 4.7], [-1.2, 5.9], [0, 5.9]]",5.960464477539063e-08,122,122,5.960464477539063e-08,PENDIENTE,MEDICIONES_FASE3.json/routes/rodear_capitan_izq
+rodear_capitan_der,TRANSITABLE YA,"[[1.2, 4.7], [1.2, 5.9], [0, 5.9]]",1.2814998626708984e-06,122,122,1.2516975402832031e-06,PENDIENTE,MEDICIONES_FASE3.json/routes/rodear_capitan_der
+conexion_posterior_actual,NO TRANSITABLE,"[[0, 5.9], [0, 7.5]]",1.1100001335144043,46,81,1.1100000143051147,PENDIENTE,MEDICIONES_FASE3.json/routes/conexion_posterior_actual
+perimetro_izquierdo,TRANSITABLE YA,"[[-8, -2], [-8, 2], [-6, 4], [-3, 5.5]]",5.960464477539063e-08,511,511,2.9802322387695312e-08,PENDIENTE,MEDICIONES_FASE3.json/routes/perimetro_izquierdo
+perimetro_derecho,TRANSITABLE YA,"[[8, -2], [8, 2], [6, 4], [3, 5.5]]",6.556510925292969e-07,511,511,5.960464477539063e-08,PENDIENTE,MEDICIONES_FASE3.json/routes/perimetro_derecho
+soportes_inclinados,NO TRANSITABLE,,,,,,PENDIENTE,probes/soporte_izq y soporte_der; altura axial ~0.943 m
+posiciones_sillas_ocupadas,NO TRANSITABLE,,,,,,PENDIENTE,ERGONOMIA_PUESTOS.json: ancho brazos CONN ~0.572/0.601 m
+techo_pantallas_altas,SOLO DECORATIVA,,,,,,PENDIENTE,Auditoria fase 2; superficies no destinadas a pisada
+puertas_hojas_y_operacion,REQUIERE REVISIÓN,,,,,,PENDIENTE,Hojas/pivotes/colisiones no validados
+circulacion_NPC_y_camara,REQUIERE REVISIÓN,,,,,,PENDIENTE,"Capsula aislada no valida cuerpos animados, camara o trafico"
