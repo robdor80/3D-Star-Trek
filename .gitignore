@@ -1,0 +1,34 @@
+# Blender - archivos auxiliares
+*.blend1
+*.blend2
+*.blend@
+
+# Python y sistema
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
+
+# Archivos de terceros - solo uso local inicialmente
+/assets/enterprise_kelvin/modelo_original/*
+!/assets/enterprise_kelvin/modelo_original/.gitkeep
+/assets/enterprise_kelvin/texturas_originales/*
+!/assets/enterprise_kelvin/texturas_originales/.gitkeep
+/assets/enterprise_kelvin/imagenes_referencia/*
+!/assets/enterprise_kelvin/imagenes_referencia/.gitkeep
+/assets/uss_theurgy/imagenes_puente/*
+!/assets/uss_theurgy/imagenes_puente/.gitkeep
+/assets/uss_theurgy/planos/*
+!/assets/uss_theurgy/planos/.gitkeep
+
+# Copias de seguridad, pruebas y exportaciones generadas
+/blender/backups/*
+!/blender/backups/.gitkeep
+/temp/*
+!/temp/.gitkeep
+/output/renders/*
+!/output/renders/.gitkeep
+/output/exportaciones/*
+!/output/exportaciones/.gitkeep
+/output/capturas_revision/*
+!/output/capturas_revision/.gitkeep
