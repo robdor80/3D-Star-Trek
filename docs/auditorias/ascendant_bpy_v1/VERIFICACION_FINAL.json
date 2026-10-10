@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-10",
+  "branch": "audit/ascendant-vs-enterprise",
+  "head": "8d1e0f2c182121ca06ff6d1722fbbf3af5cffef8",
+  "source_file_count": 21,
+  "source_total_bytes": 240533569,
+  "source_file_set_unchanged": true,
+  "source_directory_set_unchanged": true,
+  "source_files_sha256": [
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/_0e3a929217289.560caa6605fe9.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/_58cd499217289.560ca8b44d983.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/Blinds_Roman_Hobbled_Blue.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/GRATE_GLOW.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/HONEYCOMB_GLOW_2.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/Honeycomb_Grate.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/iso_web_yellow2.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/NewTrekLCARS.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/VIEWSCREEN_GLOW.jpg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model.dae",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL.zip",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/_0e3a929217289.560caa6605fe9.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/_58cd499217289.560ca8b44d983.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/Blinds_Roman_Hobbled_Blue.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/GRATE_GLOW.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/HONEYCOMB_GLOW_2.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/Honeycomb_Grate.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/iso_web_yellow2.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/NewTrekLCARS.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss-ascendant-bridge/textures/VIEWSCREEN_GLOW.jpeg",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "uss_ascendant_bridge.glb",
+      "sha256_unchanged": true
+    }
+  ],
+  "protected_scenes_hashes_only_no_geometry_read": [
+    {
+      "path": "blender/principal/enterprise_importacion_inicial.blend",
+      "sha256_unchanged": true,
+      "sha256": "0a55058552623995200fd5e16ddc327d5a6b2f6c54bbb9754f8340d01c885148"
+    },
+    {
+      "path": "blender/principal/theurgy_trabajo_v0_1.blend",
+      "sha256_unchanged": true,
+      "sha256": "a47bf96edd671bfbf6f68ccbadf8ee03938fd81e68df18ba3a41e65badefb093"
+    }
+  ],
+  "analysis_scenes": [
+    {
+      "format": "glb",
+      "path": "blender/analisis/ascendant_v1/ascendant_glb_analisis.blend",
+      "bytes": 88487350,
+      "sha256": "39052b4e1232773f9bbe52db68cb1c0a33bab39f48999ba82f0e9731f56f7e69",
+      "unchanged_after_diagnostics": true
+    },
+    {
+      "format": "dae",
+      "path": "blender/analisis/ascendant_v1/ascendant_dae_analisis.blend",
+      "bytes": 22832210,
+      "sha256": "519b7905a663b6ab0a2f621d53af71979dbb91cd79a2c59fdae6af1fcc47a8ea",
+      "unchanged_after_diagnostics": true
+    }
+  ],
+  "captures": [
+    {
+      "path": "output/capturas_revision/ascendant_v1/01_general_exterior.png",
+      "bytes": 588071,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "f4f9d2f98265380be7695d333996fe3240cc80e51b8a2c7b24d7ad6ff9faba70",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    },
+    {
+      "path": "output/capturas_revision/ascendant_v1/02_cenital_sin_cubierta.png",
+      "bytes": 739155,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "1310f2e0351602e3ccccbd504237471a2f0de4c0cc9ee9605aa8475bda37667b",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    },
+    {
+      "path": "output/capturas_revision/ascendant_v1/03_frontal.png",
+      "bytes": 616580,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "5aa4c8a691a3d479bba677b18b0e3f477ac5604ba8dd0b8541f0dcdd7f77fa05",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    },
+    {
+      "path": "output/capturas_revision/ascendant_v1/04_posterior.png",
+      "bytes": 632786,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "8382434c3b35ceb1404913d9f11d4c605161de5be8576f9d066b115a59be13bc",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    },
+    {
+      "path": "output/capturas_revision/ascendant_v1/05_conjunto_central_aislado.png",
+      "bytes": 511407,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "b066f817f34e44331b7b5ac862f90e8f6dfd33372ec4742cf92e0222179ef86d",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    },
+    {
+      "path": "output/capturas_revision/ascendant_v1/06_silla_central_candidata.png",
+      "bytes": 624525,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "d5f1dbbc5d644372076221e0d3b1aab1d9064c89a1fceba4f8822c6ec8c1b000",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    },
+    {
+      "path": "output/capturas_revision/ascendant_v1/07_zona_posterior.png",
+      "bytes": 847676,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "c0f40ba193df3a45cd5dee8ed44df1f5ba246e4bfb1950868b34651e9aef9d66",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    },
+    {
+      "path": "output/capturas_revision/ascendant_v1/08_pieza_perimetral_aislada.png",
+      "bytes": 545421,
+      "header_resolution": [
+        960,
+        720
+      ],
+      "sha256": "94a10e9f08fd63f7c11af8cef03048f7f41b21e1e7219d55617b7908150044db",
+      "valid_png": true,
+      "no_ai_visual_review": true
+    }
+  ],
+  "external_image_text_metadata_noai_matches": [],
+  "scripts": [
+    {
+      "path": "scripts/blender_python/auditar_ascendant_blender.py",
+      "syntax_ok": true,
+      "sha256": "5c75bfe93812b0e0af6c3480fc750b5f1941fd57da6460418ba93c8083481bc9"
+    },
+    {
+      "path": "scripts/blender_python/capturar_ascendant_local.py",
+      "syntax_ok": true,
+      "sha256": "799dd6314f0de36c7c266106135c9d444f4380f26edbdee30d0835f4f7eaf819"
+    },
+    {
+      "path": "scripts/blender_python/comprobar_ascendant_importacion.py",
+      "syntax_ok": true,
+      "sha256": "53492b202c5e6b43a5671c050a4124aa631bdf8b147458f7d3d84d397ffc243b"
+    },
+    {
+      "path": "scripts/blender_python/inventariar_fuentes_ascendant.py",
+      "syntax_ok": true,
+      "sha256": "9c8b8752c0da5f2db7709fc7af8da00ec8d98032d4b9ef0fc2176bd529b8ca88"
+    },
+    {
+      "path": "scripts/blender_python/medir_ascendant_local.py",
+      "syntax_ok": true,
+      "sha256": "7dcc65acb824c6bd85d06076d019d66b1724157167e476d0e565fd93657e5476"
+    },
+    {
+      "path": "scripts/blender_python/verificar_ascendant_auditoria.py",
+      "syntax_ok": true,
+      "sha256": "697eb88e92b24305bfa748d601fd4518e40f870c242e5de0ba51e8868d1c28fe"
+    }
+  ],
+  "json_reports_parse_ok": true,
+  "report": {
+    "path": "docs/auditorias/AUDITORIA_ASCENDANT_LOCAL.md",
+    "bytes": 44444,
+    "sha256": "c6d24b96d81d76cfe88d905c4a6604b0444bfd9d7c51ddd23f723c8ae5318636"
+  },
+  "git_status": [
+    "?? docs/auditorias/AUDITORIA_ASCENDANT_LOCAL.md",
+    "?? docs/auditorias/ascendant_bpy_v1/",
+    "?? docs/auditorias/ascendant_fuentes_v1/",
+    "?? scripts/blender_python/auditar_ascendant_blender.py",
+    "?? scripts/blender_python/capturar_ascendant_local.py",
+    "?? scripts/blender_python/comprobar_ascendant_importacion.py",
+    "?? scripts/blender_python/inventariar_fuentes_ascendant.py",
+    "?? scripts/blender_python/medir_ascendant_local.py",
+    "?? scripts/blender_python/verificar_ascendant_auditoria.py"
+  ],
+  "tracked_changes": false,
+  "commit_performed": false,
+  "push_performed": false,
+  "assets_and_analysis_binary_paths_ignored": true,
+  "third_party_content_sent_to_external_services": false,
+  "ai_visual_review": false,
+  "other_bridges_geometry_comparison": false
+}

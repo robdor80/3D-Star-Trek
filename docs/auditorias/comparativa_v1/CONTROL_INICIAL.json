@@ -1,0 +1,1547 @@
+{
+  "assets": [
+    {
+      "path": "assets/enterprise_kelvin/imagenes_referencia/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/enterprise_ncc_1701_d.glb",
+      "bytes": 29047960,
+      "sha256": "eb324ec3b3556615dd0cb30c72c08bde56c6ef46a4445d342e22c24795b57876"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/star_trek_tng_galaxy_class_model.glb",
+      "bytes": 9470884,
+      "sha256": "ada1e0cb6a98fcf26e4c1d40d7974d9bdb8d0374763ea1cc764cac62c512e8f3"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/U.S.S.usdz",
+      "bytes": 76463978,
+      "sha256": "6911743dad1fcb5b685c07a3ec57746e8363ddf7b73126465e1c3b5d900e5cb7"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/_58cd499217289.560ca8b44d983.jpg",
+      "bytes": 234545,
+      "sha256": "0b20a805b094283695f6f148a870d6bd00b8e276c232eb31bca88eacf4c7cf13"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/__.jpg",
+      "bytes": 21835,
+      "sha256": "39e36c7766ea9d3e412a38d462d719030c11d36378712c0380b6f0ddac781831"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/Aluminum.jpg",
+      "bytes": 12471,
+      "sha256": "e9441a0e987d966d39cb97b6b1e92872a0e10933f68440a86466b8b3d2ecdd38"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/Blinds_Roman_Hobbled_Blue.jpg",
+      "bytes": 4097,
+      "sha256": "0abea332a39e448443db5aff0fe3226ed8b2b2df9ef834e61793f5f4f5dfdd4a"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/GRATE_GLOW.jpg",
+      "bytes": 192060,
+      "sha256": "a2a1d9703429a4cfabcb89adcd35394035719d4def26e74f38929120d1f14088"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/HONEYCOMB_GLOW_2.jpg",
+      "bytes": 2419513,
+      "sha256": "7a9fffdcd1a909d720c7651d4f19a354e8489dfe38b09a93bdf2666c04b17ad4"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/iso_web_yellow2.jpg",
+      "bytes": 34913,
+      "sha256": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_28.png",
+      "bytes": 229353,
+      "sha256": "6c138670c08b4fffadb7796487c1a9fc9d9e890d3a6462fdeaffaf677d9fd3bb"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_3.jpg",
+      "bytes": 16783,
+      "sha256": "3616e73a71d876389927a9361db903d0eaf26bb2924e426b03af91e77c3b1f27"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_3_0.jpg",
+      "bytes": 13468,
+      "sha256": "44d94e40734a5080e665e8453405c35733fa8de4c1c5e01a6343b33bd05da5e5"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_3_1.jpg",
+      "bytes": 13434,
+      "sha256": "884644ec478f7d0e356086b695da6320843351494139396d89edabcac18dbff2"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_4.jpg",
+      "bytes": 894,
+      "sha256": "6afc8d98208b86c0708e6aaaa012e14e50a94d0c6446d47e2dd7ae262d7417d8"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_43.jpg",
+      "bytes": 115341,
+      "sha256": "74d4a82aaa84e72d661a393e8e80e6c34da10f84890034410f6871801c2f7fa2"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_44.jpg",
+      "bytes": 34315,
+      "sha256": "397f264e95eece64ab1142afd208b57ba53e34c3f52b433c0a2430d7f7fb4b8c"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_46.jpg",
+      "bytes": 43357,
+      "sha256": "65316656f11678d6c884b0127b77e9865895ecd127cb1b8999896526d2bf30f4"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_48.jpg",
+      "bytes": 6886,
+      "sha256": "4b78838428e98bda24004c6261582328099078bb46d10d2ae4ce9aae57a37277"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_54.jpg",
+      "bytes": 9336,
+      "sha256": "216edc1faf39e1d392eaec4873422ff0223d47e39be3f86b48143a27f4fefa87"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/material_7.jpg",
+      "bytes": 104893,
+      "sha256": "578a11be636a0f6172beaaa99d84c8d5fbbd1cf0aa95b1459507baa0eaebcc27"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/NewTrekLCARS.jpg",
+      "bytes": 2726355,
+      "sha256": "d006ab1f2b3bd1643ab0a95aa3a52971e05805d2a6c708e0e8102ab264629610"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model/VIEWSCREEN_GLOW.jpg",
+      "bytes": 99265,
+      "sha256": "65bd94bd259369587db6e13ad5a2567dd67540ca966a43c74db86e639ecb41a9"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model.dae",
+      "bytes": 84248309,
+      "sha256": "447d9cfd90e326875b28ed5345f59d8e8633b712618319c5ec0806c001c5453e"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae.zip",
+      "bytes": 20411908,
+      "sha256": "0b43c8a8e4e40fac4cb894c4c648fb4e6efb8283fe9f36982ee6e62e9e785c3d"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/_58cd499217289.560ca8b44d983.jpeg",
+      "bytes": 234441,
+      "sha256": "c87f2e990af0de813060eee3edcbe0ada112602cdff2ec5730317fdb9279d6fd"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/__.jpeg",
+      "bytes": 21811,
+      "sha256": "3489c3cbaec956672cc4d990fc6cfc86d6caaf1f99c496ce8bb80c6d0e2d5e74"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/Aluminum.jpeg",
+      "bytes": 16836,
+      "sha256": "bde63a51f5b8d81fbb59fbd2dec7bd3a94eb3dd993fd2c4bc128931450b9a77f"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/Blinds_Roman_Hobbled_Blue.jpeg",
+      "bytes": 4935,
+      "sha256": "ce620a30939d07bb4f54295b90b50cfc7bd6509765c49434122eb6dc05cf6529"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/GRATE_GLOW.jpeg",
+      "bytes": 191956,
+      "sha256": "7430e5db37991ab90a53e5397458ee352809961131d404bc493093407c6bd6c3"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/HONEYCOMB_GLOW_2.jpeg",
+      "bytes": 2419409,
+      "sha256": "273a5f37a35fc6954ca3f253b0482f4bc0e2393b2ab6f4772443040f34b77589"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/internal_ground_ao_texture.jpeg",
+      "bytes": 17506,
+      "sha256": "7b92376684de51fd5c3124852905295c156baa4c7a2d0030491082b8a62b1ee8"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/iso_web_yellow2.jpeg",
+      "bytes": 34913,
+      "sha256": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_28.inline_conv_generated.png",
+      "bytes": 41436,
+      "sha256": "f7521916350c1dff3fe4a99c90b3510d80cf12e62689109da882c3447e354052"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_28.png",
+      "bytes": 229029,
+      "sha256": "efeb515d401b94d7640844ff71862b6f1ee2c2e69b52b3df47c43cd33680936d"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_3.jpeg",
+      "bytes": 16783,
+      "sha256": "3616e73a71d876389927a9361db903d0eaf26bb2924e426b03af91e77c3b1f27"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_3_0.jpeg",
+      "bytes": 13444,
+      "sha256": "689dfc99734efa589eec5153cea01f8e1384383282e6a485eb55583814f8fc1d"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_3_1.jpeg",
+      "bytes": 13410,
+      "sha256": "ec841c8c42ab867e6c19721a3b570618a091a35d2b12d65983de1952c53b5222"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_4.jpeg",
+      "bytes": 870,
+      "sha256": "fab1ce17afee3753116991afe1defad261f84fc22f18d8b43dcced737eda956a"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_43.jpeg",
+      "bytes": 115341,
+      "sha256": "74d4a82aaa84e72d661a393e8e80e6c34da10f84890034410f6871801c2f7fa2"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_44.jpeg",
+      "bytes": 34291,
+      "sha256": "4f624a6f218c2c8f2fe8111dd5d1ef41d9d8e501b2800c1511e0ccebba3cec7d"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_46.jpeg",
+      "bytes": 43333,
+      "sha256": "fe267744e5baeca8b63179e1e7c4a72cb14be247831ee6fef32ad79a9c2de383"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_48.jpeg",
+      "bytes": 6886,
+      "sha256": "4b78838428e98bda24004c6261582328099078bb46d10d2ae4ce9aae57a37277"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_54.jpeg",
+      "bytes": 9336,
+      "sha256": "216edc1faf39e1d392eaec4873422ff0223d47e39be3f86b48143a27f4fefa87"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/material_7.jpeg",
+      "bytes": 104893,
+      "sha256": "578a11be636a0f6172beaaa99d84c8d5fbbd1cf0aa95b1459507baa0eaebcc27"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/NewTrekLCARS.jpeg",
+      "bytes": 2726251,
+      "sha256": "f84dd816056da3bca1dbb95ec0de72b7bc1aff38d67039b3f937f83a0983b7ce"
+    },
+    {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/textures/VIEWSCREEN_GLOW.jpeg",
+      "bytes": 99161,
+      "sha256": "60ffb1e29661e809d6b178a1f2bdc67927556fe6cf1ae3646066437b04230ac0"
+    },
+    {
+      "path": "assets/enterprise_kelvin/texturas_originales/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/_0e3a929217289.560caa6605fe9.jpg",
+      "bytes": 244400,
+      "sha256": "942e9a222f105422774603839275aee465b5793f5c1fb4d84eb2653c7d402a2b"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/_58cd499217289.560ca8b44d983.jpg",
+      "bytes": 234545,
+      "sha256": "0b20a805b094283695f6f148a870d6bd00b8e276c232eb31bca88eacf4c7cf13"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/Blinds_Roman_Hobbled_Blue.jpg",
+      "bytes": 4097,
+      "sha256": "0abea332a39e448443db5aff0fe3226ed8b2b2df9ef834e61793f5f4f5dfdd4a"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/GRATE_GLOW.jpg",
+      "bytes": 192060,
+      "sha256": "a2a1d9703429a4cfabcb89adcd35394035719d4def26e74f38929120d1f14088"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/HONEYCOMB_GLOW_2.jpg",
+      "bytes": 2419513,
+      "sha256": "7a9fffdcd1a909d720c7651d4f19a354e8489dfe38b09a93bdf2666c04b17ad4"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/Honeycomb_Grate.jpg",
+      "bytes": 1316493,
+      "sha256": "cd5a17f6f6d453ce3fbf8c3f8f5690b3faaedcc19edbddff45591908b10bb4fe"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/iso_web_yellow2.jpg",
+      "bytes": 34913,
+      "sha256": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/NewTrekLCARS.jpg",
+      "bytes": 2726355,
+      "sha256": "d006ab1f2b3bd1643ab0a95aa3a52971e05805d2a6c708e0e8102ab264629610"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model/VIEWSCREEN_GLOW.jpg",
+      "bytes": 99265,
+      "sha256": "65bd94bd259369587db6e13ad5a2567dd67540ca966a43c74db86e639ecb41a9"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model.dae",
+      "bytes": 95037334,
+      "sha256": "a92ab06e60b8b9a0c099dd4767cf7a1a29e47f83df37f9209082ed45ba5298ac"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL.zip",
+      "bytes": 20805427,
+      "sha256": "7b474cfd6453a6ed72fd301073ef08ff303995fff285a705cb5179b87e86f9c5"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/_0e3a929217289.560caa6605fe9.jpeg",
+      "bytes": 244296,
+      "sha256": "8403dcdf9ae57db7de94194f748e528fb7a3caf3ec78238e514b6de031acd766"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/_58cd499217289.560ca8b44d983.jpeg",
+      "bytes": 234441,
+      "sha256": "c87f2e990af0de813060eee3edcbe0ada112602cdff2ec5730317fdb9279d6fd"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/Blinds_Roman_Hobbled_Blue.jpeg",
+      "bytes": 4935,
+      "sha256": "ce620a30939d07bb4f54295b90b50cfc7bd6509765c49434122eb6dc05cf6529"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/GRATE_GLOW.jpeg",
+      "bytes": 191956,
+      "sha256": "7430e5db37991ab90a53e5397458ee352809961131d404bc493093407c6bd6c3"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/HONEYCOMB_GLOW_2.jpeg",
+      "bytes": 2419409,
+      "sha256": "273a5f37a35fc6954ca3f253b0482f4bc0e2393b2ab6f4772443040f34b77589"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/Honeycomb_Grate.jpeg",
+      "bytes": 1316389,
+      "sha256": "0b6a2ae27fe28348b7a14a982752744bcf46339ca9ff1ec544e8505679eaa870"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/iso_web_yellow2.jpeg",
+      "bytes": 34913,
+      "sha256": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/NewTrekLCARS.jpeg",
+      "bytes": 2726251,
+      "sha256": "f84dd816056da3bca1dbb95ec0de72b7bc1aff38d67039b3f937f83a0983b7ce"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/textures/VIEWSCREEN_GLOW.jpeg",
+      "bytes": 99161,
+      "sha256": "60ffb1e29661e809d6b178a1f2bdc67927556fe6cf1ae3646066437b04230ac0"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss_ascendant_bridge.glb",
+      "bytes": 110147416,
+      "sha256": "6104f05cd5ad9711bb99ff956e356c97c0c3dc9c9ccecf33ba3e23a00f7b7608"
+    },
+    {
+      "path": "assets/otros/bridges/USS Enterprise E/uss-enterprise-e-bridge.zip",
+      "bytes": 8385679,
+      "sha256": "fab7fd2d2ccba3e89e8902298b4ef00a01520bd41ee1510286578edd07447e9e"
+    },
+    {
+      "path": "assets/otros/bridges/USS Enterprise E/uss_enterprise_-_e_bridge.glb",
+      "bytes": 8797356,
+      "sha256": "2e58e9351c91d39d794f0407c344e0a9ccb452a03833e9cf189977a584369a4b"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/__Metal_Aluminum_Anodized_2.jpg",
+      "bytes": 2508,
+      "sha256": "499a7bb6e1d7bc1c2c47a9a769c34cda69b4809695149fa017f4161cdb581c45"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/material_29.jpeg",
+      "bytes": 319136,
+      "sha256": "7b9cec2c907eb162d22db9e406533b496d224ca35cd112b596f2d425a83194da"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/material_2_10.jpg",
+      "bytes": 36190,
+      "sha256": "6b1d0e62d4d4c2f785dc85065b74afe061badeefd4665208fe64585e40aac3fa"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/material_30.jpeg",
+      "bytes": 301519,
+      "sha256": "4b24e8feded666a6707d0b07347c6adb2b4909d130814cbd16cbb609a20ea0db"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/material_51.jpg",
+      "bytes": 266979,
+      "sha256": "d035a08a5b5917190f8f1196bc065097d3f1eb2ff65cc5eeaf8a6d3fe20ad1f4"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/Metal_Rough.jpg",
+      "bytes": 1963,
+      "sha256": "74f9752dd988f088e1b0282efe797a030390a73da5d579f250d389bb7b7cba8f"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/Metal_Seamed.jpg",
+      "bytes": 920,
+      "sha256": "98b80b06330256fdd9843306bcb8fcbb4db40ea9df3e027737f8c16da78830fe"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/Naamloos_1.jpg",
+      "bytes": 9326,
+      "sha256": "e719709304c873ad575d97ae6f373789cd9702c582d9707cab112b1e762c7c75"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/Naamloos_2.jpg",
+      "bytes": 11480,
+      "sha256": "0b63da3f63eeac1a674440b34bafeb9b6ee28758909699d7769157cae1d001ea"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture.png",
+      "bytes": 61073,
+      "sha256": "87dcd6bb8b3bd00ec76c81432ab694b4d39594867a3554566c20324e307e6f4e"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_0.png",
+      "bytes": 89855,
+      "sha256": "b9218b104ec7a416e21abdb1951979166c87a51ae3a5927d74c0cc86279db4df"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_1.png",
+      "bytes": 98559,
+      "sha256": "d191da0b0483331f715db8adf54e2176bd653141c34f318edb009b90a5109c5a"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_2.png",
+      "bytes": 79191,
+      "sha256": "2d357726f6ab688a22a2c48bdf9e22c87b03f5cc88a590b5c9944e9ae6410cb7"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_3.png",
+      "bytes": 112295,
+      "sha256": "2d0aa008655f01a9efab076d72b8730fced1ae08af786cc98ec88912d7090c23"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_4.png",
+      "bytes": 136449,
+      "sha256": "a416ab6f272b2cd5ca9d0693b112499ec08c1549d1f668cd3d8cf4dad15ad78f"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_5.png",
+      "bytes": 56347,
+      "sha256": "2654ffd2dabc567f35c80e3235418a4659bce74cc8014541d3f9f133439e6b3d"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_6.png",
+      "bytes": 63130,
+      "sha256": "2a5468d42b43dd48b1d6b97dbf171403fc393a442dd0deb9a34d8705462200b8"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_7.png",
+      "bytes": 81259,
+      "sha256": "e526016d6034a514d41b85150b27852d9708100dd2dd1109b95822f3067c92eb"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model/texture_8.png",
+      "bytes": 80566,
+      "sha256": "57f5fd4cf81e202a8c8874c43bfa52f4f78e72b77c50714b826d168a2960dbe2"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy/model.dae",
+      "bytes": 4135246,
+      "sha256": "5c268c4f85ca2dc5f2251f1ed7f3bb1b2663aa3d6ff03f7c5317247937796f77"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/source/Copy+of+Copy+of+uss_enterprise_d_bridge+-+Copy.zip",
+      "bytes": 2164696,
+      "sha256": "4639a7cd32cca86a6eb8cbc3f37d96c3bc07166c124ef5dc9df035a38db5a5ce"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/__Metal_Aluminum_Anodized_2.jpeg",
+      "bytes": 3695,
+      "sha256": "e3de7a6dc67c900e5d760a888cf1e3ebb58578e0e580a733f95c5b25afd2e786"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/material_29.jpeg",
+      "bytes": 319136,
+      "sha256": "7b9cec2c907eb162d22db9e406533b496d224ca35cd112b596f2d425a83194da"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/material_2_10.jpeg",
+      "bytes": 37312,
+      "sha256": "5fac9236ed5970eca9b2351112a50d0a527782c797c06d8b627e808d9f220e7b"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/material_30.jpeg",
+      "bytes": 301519,
+      "sha256": "4b24e8feded666a6707d0b07347c6adb2b4909d130814cbd16cbb609a20ea0db"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/material_51.jpeg",
+      "bytes": 266955,
+      "sha256": "1a8c4bc3d091b35e633a3fd26840f3d3291dfb13866f5c2c9100af5d6f262af2"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/Metal_Rough.jpeg",
+      "bytes": 1963,
+      "sha256": "74f9752dd988f088e1b0282efe797a030390a73da5d579f250d389bb7b7cba8f"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/Metal_Seamed.jpeg",
+      "bytes": 1385,
+      "sha256": "6fe57ecf22fe9e7b91f7232cafa25e76259868504362e7b9d81d662cf40a37c6"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/Naamloos_1.jpeg",
+      "bytes": 9326,
+      "sha256": "e719709304c873ad575d97ae6f373789cd9702c582d9707cab112b1e762c7c75"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/Naamloos_2.jpeg",
+      "bytes": 11480,
+      "sha256": "0b63da3f63eeac1a674440b34bafeb9b6ee28758909699d7769157cae1d001ea"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture.png",
+      "bytes": 60968,
+      "sha256": "01552440327d6cb0b3cfffee9ed8d5cb0f72dbe14cb8d5d0acb06665330de2c5"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_0.png",
+      "bytes": 89714,
+      "sha256": "72bb27e6cdf48f2ebcb2161dfacbf959bd747d96b812a1525402e0820929994a"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_1.png",
+      "bytes": 98394,
+      "sha256": "adc588aeff38248a9d14e70c9b6f847b7e61c078446b70eef6cc7d86c2c2938a"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_2.png",
+      "bytes": 79062,
+      "sha256": "86c964f4ee2c7eb1188a0804b216ff0eef04497c2aff542c874f8b197b225fdf"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_3.png",
+      "bytes": 112118,
+      "sha256": "18c44aafd439b805c70a19be1e164f74cc9c4eac800e38315bfa98edf7636919"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_4.png",
+      "bytes": 136236,
+      "sha256": "1c9939439a71165d9d7491a90df2585277c9aa94c83c893fc1e21d55e416d990"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_5.png",
+      "bytes": 56254,
+      "sha256": "0e339dcade71e85f6975dd329641a68a7db75580741355478647a892d14a4fb1"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_6.png",
+      "bytes": 63025,
+      "sha256": "51962b6fa537599bcd7102bcb6999ef058f1855f30df5dd7514485ff83c611e5"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_7.png",
+      "bytes": 81130,
+      "sha256": "b1ddcb2a36faca2acc76aba103bbbfa71d2b34df2b7d941d717c3ccd5eefea5b"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command/textures/texture_8.png",
+      "bytes": 45741,
+      "sha256": "24a067cf4b22df29996bfcc56da01c82c6bb19c4381f5c61307bf26047a3d9c1"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss-ross-galaxy-class-starship-bridge-command.zip",
+      "bytes": 3942685,
+      "sha256": "4bc03dc9e2682209eb7009007d28b8acf29dcf3833d5fcd8c395b663420de45d"
+    },
+    {
+      "path": "assets/otros/bridges/USS Ross Galaxy Class Starship Bridge command/uss_ross_galaxy_class_starship_bridge_command.glb",
+      "bytes": 3529084,
+      "sha256": "f20cb5a0faa6eabe0a2b4946c85cf5283c5be8bd61b1141dc66464775509993a"
+    },
+    {
+      "path": "assets/otros/corridor/enterprise-corridor.zip",
+      "bytes": 1050962,
+      "sha256": "1a0b2a418fb0376da6789175a7e1e783f1428c5df58162a6cdda5db836899fa8"
+    },
+    {
+      "path": "assets/otros/corridor/enterprise_corridor.glb",
+      "bytes": 2134976,
+      "sha256": "8d9603eb659ad072432c6f56b0b6c138c48ff6a096149b8e82ac439ded867d83"
+    },
+    {
+      "path": "assets/otros/corridor/Low Poly Corridor - [Star Trek]/low-poly-corridor-star-trek.zip",
+      "bytes": 1335524,
+      "sha256": "745a029586cddf7b7074f40c82ea70fdf6c2c9a23b8448a2bc5f1f21782d391f"
+    },
+    {
+      "path": "assets/otros/corridor/Low Poly Corridor - [Star Trek]/low_poly_corridor_-_star_trek.glb",
+      "bytes": 1073456,
+      "sha256": "86cd31d6c6b8465cd046393743754963099b7e9cf63d44f2fa3380ebf7170c70"
+    },
+    {
+      "path": "assets/otros/corridor/Low Poly Corridor - [Star Trek]/low_poly_corridor_-_star_trek_PBR_Compat_6997a32b7a8d44a8a250f9332cb2f180.glb",
+      "bytes": 1073832,
+      "sha256": "920170b2cdccbde2a6595a6922590e3bff25837c70309ba01022f9f5f13a2a20"
+    },
+    {
+      "path": "assets/otros/corridor/modular-star-trek-corridor.zip",
+      "bytes": 3372116,
+      "sha256": "49b87589e3f0530a2b4c18368b9ecedece5abcad0e0e43b8d2c245fc3a9351ed"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/Blinds_Wood_White.jpg",
+      "bytes": 3023,
+      "sha256": "2b9697b618e19542906f7f5b8013d5198bf7e5b775e08f67411af9f9a9011a3f"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/material_3.png",
+      "bytes": 14746,
+      "sha256": "71923d36768cdfce4d56b8af9635fdcfd4773b4e90cc3c62d3cfa2e291216225"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/material_34.jpg",
+      "bytes": 8175,
+      "sha256": "ee1f9a717404c9c4bfed171c140c78aa3d92ef5869ee4bdaa0d8eaba6a2c59a4"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/material_57.png",
+      "bytes": 10038,
+      "sha256": "b5f1a9c0bdf107be68636999fdc15a9ef4fc1b9528e68e5cb3c95c8842a1a9be"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/Metal_Aluminum_Anodized.jpg",
+      "bytes": 2508,
+      "sha256": "499a7bb6e1d7bc1c2c47a9a769c34cda69b4809695149fa017f4161cdb581c45"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/texture.png",
+      "bytes": 491243,
+      "sha256": "9071a4bd6a030bc82255eabe6d0745f4988de2eb6b7bf9603491488310c666e0"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/texture_0.png",
+      "bytes": 294067,
+      "sha256": "8acbc29c7d950d182a129cb5c637a942ee6819839ec8b9bd6e32b3795257fac4"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/texture_1.png",
+      "bytes": 270986,
+      "sha256": "7cafdb21bb619ec8498b4eaa65bab8a5fcc6be34adcbbf39426950b149aba7fd"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model/texture_2.png",
+      "bytes": 404109,
+      "sha256": "ba05d78374dcc00a84ca6013a1ef23e8b33a792a8f0ad01020423ac7b0e44748"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2/model.dae",
+      "bytes": 82918565,
+      "sha256": "8f3d1b6383b07c6760085fbe6c7eeaacd0bb41ced78eee4ef6d27906f09d37c4"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/source/corridor+nx+2.zip",
+      "bytes": 8075822,
+      "sha256": "570c83492f9f95ce3a1ac7ccc69ffb3e3f40356eabd778068afe4fbd6a09c29d"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/Blinds_Wood_White.jpeg",
+      "bytes": 3023,
+      "sha256": "2b9697b618e19542906f7f5b8013d5198bf7e5b775e08f67411af9f9a9011a3f"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/material_3.inline_conv_generated.png",
+      "bytes": 3593,
+      "sha256": "7f7b43dc5cfb9ccb07d15fbf543cb98d6e04e7321a3b8e73e59bf925425e6e61"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/material_3.png",
+      "bytes": 14713,
+      "sha256": "dbfd9068f92ced14470000b34457735ada59a1523e093fc990e2cdd0a4f6eacd"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/material_34.jpeg",
+      "bytes": 8175,
+      "sha256": "ee1f9a717404c9c4bfed171c140c78aa3d92ef5869ee4bdaa0d8eaba6a2c59a4"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/material_57.inline_conv_generated.png",
+      "bytes": 1196,
+      "sha256": "42a01a404e73781c87092cf8e0f8cf0ed8fa2eea3784ce55e908b3991378c9b5"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/material_57.png",
+      "bytes": 9985,
+      "sha256": "affa507bf8e5bc850d1bb678fcd960916d9b4d8515e563506ec131c7c51feec1"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/Metal_Aluminum_Anodized.jpeg",
+      "bytes": 3695,
+      "sha256": "e3de7a6dc67c900e5d760a888cf1e3ebb58578e0e580a733f95c5b25afd2e786"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/texture.png",
+      "bytes": 490514,
+      "sha256": "00a8e80d171f10b45cbc946b0903496baa68bffc2a00429baabd154cec1fc7b4"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/texture_0.png",
+      "bytes": 293626,
+      "sha256": "8874703f488b0e8ee79fb868e0120445d4f8e49c5e3a94ff1d0469581a9aa69b"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/texture_1.png",
+      "bytes": 270569,
+      "sha256": "23ceae0dc651d34bf782b1f1a88ce2905a5cafbbfb1d45a7fbb5c5cc9bed852c"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor/textures/texture_2.png",
+      "bytes": 403500,
+      "sha256": "77266f31fe00ee254e3f31933c705f6cab35e54b582a06074fecb2b0d8063dd3"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx-class-starship-corridor.zip",
+      "bytes": 9580027,
+      "sha256": "b7dea78a853c8e972bd2301dc9822ea46087ba98c3fe568e8384b18a6b9195ea"
+    },
+    {
+      "path": "assets/otros/corridor/NX Class/nx_class_starship_corridor.glb",
+      "bytes": 23500380,
+      "sha256": "d82e68ad68fd8e523bc32b635e4046dbf3ed72a1fa5f66fafa660ef5389f0695"
+    },
+    {
+      "path": "assets/otros/corridor/Star Trek Voyager Collection/star-trek-voyager-collection/source/StarTrekVoyagerCollection.blend",
+      "bytes": 7875980,
+      "sha256": "22a5744ee57f74a02e43798d5d9e8841cca00dbdde3660befde6cf25ccb88992"
+    },
+    {
+      "path": "assets/otros/corridor/Star Trek Voyager Collection/star-trek-voyager-collection.zip",
+      "bytes": 7876154,
+      "sha256": "e9da08c7b504892ddc6d17fd8542f365aedf67daaccab33050b125ca9ffcc28d"
+    },
+    {
+      "path": "assets/otros/corridor/Star Trek Voyager Collection/star_trek_voyager_collection.glb",
+      "bytes": 4262160,
+      "sha256": "d1bbe6dabb81327eae77bfdb3d8f170773086f137177d03ef5e7d3a5e87fcbb8"
+    },
+    {
+      "path": "assets/otros/corridor/star_trek_hangar.glb",
+      "bytes": 4682108,
+      "sha256": "aa699ec658c55324d5a9e094159698cb1576d38643d602cf1ec87e3494ff01f0"
+    },
+    {
+      "path": "assets/otros/Danube simulador/star-trek-ds9-danube-runabout-rio-grande-cockpit.zip",
+      "bytes": 29627139,
+      "sha256": "3b81606d3c1ec65290377edb7121885986582d070741e43e2dd3d254cf629ce5"
+    },
+    {
+      "path": "assets/otros/Danube simulador/star_trek_ds9_danube_runabout_rio_grande_cockpit.glb",
+      "bytes": 18045284,
+      "sha256": "cd0bb409f28ee357505d11faed9afd580bda0873657246f5362f78c7934a013e"
+    },
+    {
+      "path": "assets/otros/Danube simulador/star_trek_ds9_danube_runabout_rio_grande_cockpit.zip",
+      "bytes": 16705517,
+      "sha256": "eac8ce3aeb80ec56fa76bee26248204d5b19db81b10fe461fc7b2f35fb256972"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/LCARS_Replicador.jpg",
+      "bytes": 271266,
+      "sha256": "81636aa290f80fb356d47bb46e85ee0c20cea4c7592d91d9bdfdbb23ebbf84dd"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/material_1.jpg",
+      "bytes": 16979,
+      "sha256": "7b242b989f59150f8218412afa63b73ba141e0e40309028826a1e33b2688f806"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/material_16.jpg",
+      "bytes": 17615,
+      "sha256": "ebb99b5c6218fa5ae16972aa41eed8ec34290aee77bcf86b666ff83748b2e021"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/material_19.jpg",
+      "bytes": 16062,
+      "sha256": "8484a9a00c721f753d076c7012c4a65660fdc79440b853be2670b7f20af5ff1a"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/material_22.jpg",
+      "bytes": 16579,
+      "sha256": "3b57c608c82c69e594974eca809482e7eaf2165cde64994ac8d3a14629fafc34"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/material_44.jpg",
+      "bytes": 32116,
+      "sha256": "3a964b5ac002e456c3940592d1b0bea8b0fce828955240e280c8f2c1a8754135"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/material_44_1.jpg",
+      "bytes": 32116,
+      "sha256": "3a964b5ac002e456c3940592d1b0bea8b0fce828955240e280c8f2c1a8754135"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model/Wood_Cherry_Original.jpg",
+      "bytes": 10294,
+      "sha256": "6e3bbe69e0d99af013000cba499f3fc33098f7ad69748e44ce7769132838d98c"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward/model.dae",
+      "bytes": 23349299,
+      "sha256": "353c703719ca72c652ec25e019a89e7fd8fe0be0e566ef38847ef05d871ac9f9"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/source/Two+Forward.zip",
+      "bytes": 4627775,
+      "sha256": "618f57735ad3c628dd95184840391f3d2a4915b2f0ff4054f9a31d71aa20ea08"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/LCARS_Replicador.jpeg",
+      "bytes": 299443,
+      "sha256": "bc07f7dc68e3cc80b136a909e532cfa040fd044e2bbafe44c92a12e4bac76be9"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/material_1.jpeg",
+      "bytes": 16979,
+      "sha256": "7b242b989f59150f8218412afa63b73ba141e0e40309028826a1e33b2688f806"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/material_16.jpeg",
+      "bytes": 17615,
+      "sha256": "ebb99b5c6218fa5ae16972aa41eed8ec34290aee77bcf86b666ff83748b2e021"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/material_19.jpeg",
+      "bytes": 16062,
+      "sha256": "8484a9a00c721f753d076c7012c4a65660fdc79440b853be2670b7f20af5ff1a"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/material_22.jpeg",
+      "bytes": 16579,
+      "sha256": "3b57c608c82c69e594974eca809482e7eaf2165cde64994ac8d3a14629fafc34"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/material_44.jpeg",
+      "bytes": 32116,
+      "sha256": "3a964b5ac002e456c3940592d1b0bea8b0fce828955240e280c8f2c1a8754135"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/material_44_1.jpeg",
+      "bytes": 32116,
+      "sha256": "3a964b5ac002e456c3940592d1b0bea8b0fce828955240e280c8f2c1a8754135"
+    },
+    {
+      "path": "assets/otros/estancias/two-forward-tng/textures/Wood_Cherry_Original.jpeg",
+      "bytes": 10277,
+      "sha256": "494bdecd4ce7261a02cf25ac7f954f7dd3940cdb5529b9e4fdad02c3b350a5d8"
+    },
+    {
+      "path": "assets/otros/estancias/two_forward_tng.glb",
+      "bytes": 23577296,
+      "sha256": "5da398308122ffc4bd6f5bad0e3163d88e525fd3b81775b8589f7e77e5a2241c"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/source/7of9_sketchfab.fbx",
+      "bytes": 2714284,
+      "sha256": "3375788ede4f063bd5ab1ac5f097d41b4b95b8166254942dbecfdd47a7de49aa"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_albedo.jpeg",
+      "bytes": 2189380,
+      "sha256": "4ec758132f772936de1e23c456d30c001071ac773d2948218d1bbdcbd13b8a19"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_AO.jpeg",
+      "bytes": 1504073,
+      "sha256": "d7652fc8a81eb51e0e58f66134cdef5b2971225cbdefa8e276596424818c6572"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_metallic.jpeg",
+      "bytes": 175852,
+      "sha256": "113dda0b2e49eca940d582946d0fc14e209ee63a70848fe9d42af4e30ec57eca"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_normal.png",
+      "bytes": 5255333,
+      "sha256": "66034133ef65631982edf2185f1a7d81b7126fcf11fbeb1e4e14ac3ed308b77f"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Body_roughness.jpeg",
+      "bytes": 2349808,
+      "sha256": "0414563c66321d77abfa66655b42b8de44c44ef2360db9f2ca2000331a22106b"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Eyelashes_normal.png",
+      "bytes": 113794,
+      "sha256": "80d7b3a5566b0dcb55760ed60c285c1f76523adf9c8e488a8c36b2a6d5a341cd"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Eyelashes_opacity.jpeg",
+      "bytes": 74380,
+      "sha256": "bbb1b2d9f72869516bec8e009e1c74cc7bbef592f1b750cda41431fd36fc4ffb"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_albedo.jpeg",
+      "bytes": 2956143,
+      "sha256": "0c7d2cc8774c7e59b3b8549b0de03380316e9c46db53268db3e8db7e264478de"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_AO.jpeg",
+      "bytes": 1583698,
+      "sha256": "5198dd36da41957f4355446c7d5a7d38584ecbbf00a685804f7f8c1b42539dd1"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_normal.png",
+      "bytes": 4604339,
+      "sha256": "3d22d322cc18e24e9e2a15343aa0aa68437cabca5a1c0a2d83a388ab994c87ea"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_opacity.jpeg",
+      "bytes": 226761,
+      "sha256": "b142db80a60deacd49f81bd0ed6a9b0ca904023109d4135cf4c9836cac761e82"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Hair_roughness.jpeg",
+      "bytes": 1342329,
+      "sha256": "5179c4d1e43d67aeb31b54a47a8145e7f6dfb1b068b207173dfe54ddf57fb42e"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_albedo.jpeg",
+      "bytes": 861699,
+      "sha256": "1dfb5e87b8d65985f58731c2baa910da336f6a285d7546d68469332912312767"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_AO.jpeg",
+      "bytes": 906163,
+      "sha256": "1dc9594781ac2ea6329ab23dd5dc44470b73aff2e6c5700196c4335f1b34fa32"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_normal.png",
+      "bytes": 4623247,
+      "sha256": "48a40f6c5180287074737e39fde7d409cfc611ce5cd9a7696dde64f121931a8d"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/7of9Head_roughness.jpeg",
+      "bytes": 1696795,
+      "sha256": "672c50f5c018dc1bbf77574249dd8b019023ea542afd9883f6e185f8eb93e212"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/eye_albedo.jpeg",
+      "bytes": 327523,
+      "sha256": "0acd601d55bacdbdfb1fccf89185d6b376615da7a08f9658743d2ff7ef5b1aa1"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine/textures/Mough_albedo.jpeg",
+      "bytes": 305464,
+      "sha256": "9f43169720f1b5b7ffd3ccad10c7d0a7e71b7a40328ecf504ac3161d9e8b2ad6"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven-of-nine.zip",
+      "bytes": 33813623,
+      "sha256": "5b79133f1b50d7ff7ca74356311f4811f718462b4af5ea6aef05e244b08c1bc6"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/license.txt",
+      "bytes": 678,
+      "sha256": "dd59b63ad9a971cba7f0ce4af87cab1b04875bdee2141ff929400e8e2c0a5879"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/scene.bin",
+      "bytes": 1778572,
+      "sha256": "7c577a51574d92207790256b44f1550c9178e941a18a98a8046cae14c6795c14"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/scene.gltf",
+      "bytes": 137605,
+      "sha256": "2402a656cd48fd368a845bec4cb87ae15d7e9fe47a5b288689abe4bd12cfa90e"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_baseColor.jpeg",
+      "bytes": 1366559,
+      "sha256": "ba8973c6cb4e3be5173a5f6b3a921f9ae70bffeffddcbe39bfb9f66308215494"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_metallicRoughness.png",
+      "bytes": 5356434,
+      "sha256": "63c51d09b14a103a8a3863ddec2b5095ce49a5894af4d8e8b5016ba3f1cac302"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Body_normal.png",
+      "bytes": 4851306,
+      "sha256": "d801ba860df6f3870dafbe2d4cb2bd3553faad900c4fdac2e186a81e4e8f6c81"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Eyelashes_baseColor.png",
+      "bytes": 54513,
+      "sha256": "31fe571a6cbb7f78ed747ca7ded523f3bf5be3017393f069c0eff6af0ffd9201"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Eyelashes_normal.png",
+      "bytes": 105911,
+      "sha256": "41b9111415e9990d3b6d0834c06ae9b8951ef05e57a65c1741ff7a4cb8f88191"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_baseColor.png",
+      "bytes": 5485934,
+      "sha256": "d087c003bbb8552b94423cbd8a3032885c27308e98e3bf9d38fa0e4d74ea21be"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_metallicRoughness.png",
+      "bytes": 4143632,
+      "sha256": "5a9fea4ee188645e9682053430f5c4cf2d20a1c200f7b34112fc91829ab165c7"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Hair_normal.png",
+      "bytes": 4384410,
+      "sha256": "e3ee484d4281d78360b53bd9173954f6a35e796a4e0b592fbe3cab9eb3222d7e"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_baseColor.jpeg",
+      "bytes": 523995,
+      "sha256": "c46f7198961bf0de74d639b4db47b5d7973767e844653aa833f991784faff27f"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_metallicRoughness.png",
+      "bytes": 3811507,
+      "sha256": "3865592ee2131947e3c6d1882493f6abb882103941eb5bcc4a63624334007de3"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/7of9Head_normal.png",
+      "bytes": 4325641,
+      "sha256": "9194b4abfaf51007954016d34d0026fd1724d71f93b62ededbbd334e13c64cc7"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/material_baseColor.jpeg",
+      "bytes": 181431,
+      "sha256": "016a76991b9713047749d97dfa5bbdc01feff02e62044871a781e986baa513b6"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine/textures/Mough_baseColor.jpeg",
+      "bytes": 168990,
+      "sha256": "551c6a0944ceb84ae731af9b66736ccb28c9d4d61528f03a1d02fd03b36d6b24"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine.glb",
+      "bytes": 36617688,
+      "sha256": "fb31d069a5dd7027c6ac72920acc80bed61178d89e49049b96e5e7c1dd378f02"
+    },
+    {
+      "path": "assets/otros/NPC/7 de 9/seven_of_nine.zip",
+      "bytes": 35518427,
+      "sha256": "e697750708e1a57474dbd36469660aa93901383d15b2a3f38eff6b8b03c6cc3d"
+    },
+    {
+      "path": "assets/otros/NPC/Data/ava-data-mashup.zip",
+      "bytes": 121009493,
+      "sha256": "7745efab0160eb21040fcc47509342ec63ff30966cdb129e62783936b0a50b3c"
+    },
+    {
+      "path": "assets/otros/NPC/Data/ava__data_mashup.glb",
+      "bytes": 81914364,
+      "sha256": "02cbcc93fd1d011e089f9f9192acda768615b5d84719b4bfd317950366f02ec2"
+    },
+    {
+      "path": "assets/otros/NPC/Geordi La Forge Visor/geordi-la-forge-visor.zip",
+      "bytes": 18456182,
+      "sha256": "774890952559092b2ad017c522ba2afd6139104dd88baa465cb28463f998dea9"
+    },
+    {
+      "path": "assets/otros/NPC/Geordi La Forge Visor/geordi_la_forge_visor.glb",
+      "bytes": 9014000,
+      "sha256": "d4540c9c7de5f1189a3a814d60a9249f2f3209cd0c55c24ec54fc45956275c05"
+    },
+    {
+      "path": "assets/otros/NPC/Piccard/patrick-stewart-star-trek.zip",
+      "bytes": 18886500,
+      "sha256": "fa80e638bfafa64659415255f311104136616e6fa67cfe15d1b0057df08e75b1"
+    },
+    {
+      "path": "assets/otros/NPC/Piccard/patrick_stewart_star_trek.glb",
+      "bytes": 7758024,
+      "sha256": "32b6752652b52bcc0720c50b29e2eb7106e13951bb4cdd64d5741eb5d87fcf49"
+    },
+    {
+      "path": "assets/otros/NPC/Saru/commander-saru.zip",
+      "bytes": 28147163,
+      "sha256": "dce84303a44e2c5807194f94caa224e9ccb93b1a73671d312024a2f3cc03feee"
+    },
+    {
+      "path": "assets/otros/NPC/Saru/commander_saru.glb",
+      "bytes": 31545724,
+      "sha256": "422215bb39c80bff58bcc253c0ed45a6c783ea51b6fcff377d30e7b74e804989"
+    },
+    {
+      "path": "assets/otros/NPC/Worf/star-trek-first-contact-worf.zip",
+      "bytes": 34893583,
+      "sha256": "cad5a7e5873197c7f024bf0df09f9e9c4b95b0ad8965f430632627009f7ea92c"
+    },
+    {
+      "path": "assets/otros/NPC/Worf/star_trek_first_contact__worf.glb",
+      "bytes": 17121032,
+      "sha256": "e0a6e9fd22f3081b62ea0904a0b232d42561349207872b07355c5769a7126437"
+    },
+    {
+      "path": "assets/otros/NPC/Worf/star_trek_first_contact__worf.zip",
+      "bytes": 16702332,
+      "sha256": "3e33ead33586943e28d09f4fedf7d87aa1dc5dea4e8e8fdb4531ad74d3e4e8ce"
+    },
+    {
+      "path": "assets/otros/replicator/henry_star_trek_tng_replicator.glb",
+      "bytes": 658856,
+      "sha256": "3e132ab7359c3a1427923272adcec62029d1da97acfeb83676cd93ee8d3ff3e5"
+    },
+    {
+      "path": "assets/otros/ships/class sovereign/star-trek-sovereign-class.zip",
+      "bytes": 27318729,
+      "sha256": "c410a530e0ecb7a8b26ae13cbe34ea6a923e8c7ec3c626402be3595d9e7b2243"
+    },
+    {
+      "path": "assets/otros/ships/class sovereign/star_trek_-_sovereign_class (1).glb",
+      "bytes": 13767460,
+      "sha256": "f9590c8b4ac2f4c3904f3391fb0b146244b6019a0e0abc33741adab928479fa3"
+    },
+    {
+      "path": "assets/otros/ships/class sovereign with hangar/star-trek-sovereign-class-with-shuttlebay.zip",
+      "bytes": 21678891,
+      "sha256": "4cdecd9c8f90bed7242bb5bec44fa709359fb05c3607c9e8bada18c97a942465"
+    },
+    {
+      "path": "assets/otros/ships/class sovereign with hangar/star_trek_sovereign_class_with_shuttlebay.glb",
+      "bytes": 11369372,
+      "sha256": "b21eecdcaf522b474379cde7257942a03a221df1a911a146f348d35962da136a"
+    },
+    {
+      "path": "assets/otros/ships/class sovereign with hangar/star_trek_sovereign_class_with_shuttlebay.zip",
+      "bytes": 8650534,
+      "sha256": "a65c3c417f36b85f3c2e17ed8333b3859b9b7d008bb23c77ee9bf9a15d7efc44"
+    },
+    {
+      "path": "assets/otros/space stations/space-station/source/station.fbx",
+      "bytes": 114764,
+      "sha256": "91daee9352ea112b70add371104d53d08558e62da44bfa344a508fb7afbf393b"
+    },
+    {
+      "path": "assets/otros/space stations/space-station/textures/gate.png",
+      "bytes": 2056394,
+      "sha256": "811776351e10659e3a52e42ea4232927c3de59e598720b0602fc728acc01406a"
+    },
+    {
+      "path": "assets/otros/space stations/space-station/textures/Station_BaseColor.png",
+      "bytes": 4087395,
+      "sha256": "3b6a8277a3581204d4aa8be25e8e30c3dba8ea733e0a72736cc97c08e5358ce6"
+    },
+    {
+      "path": "assets/otros/space stations/space-station/textures/Station_Emissive.png",
+      "bytes": 252060,
+      "sha256": "af1fa0acef8a5c49fa413fd0e8a6dcdff35fcf0836bfb6b08f6c273acdbb6314"
+    },
+    {
+      "path": "assets/otros/space stations/space-station/textures/Station_Metallic.png",
+      "bytes": 362383,
+      "sha256": "debd650a6ce81cf81168afd33dca48c837c4777e573255b8d037a6076cfa3509"
+    },
+    {
+      "path": "assets/otros/space stations/space-station/textures/Station_Normal.png",
+      "bytes": 12727483,
+      "sha256": "0a889a7c38dd9948bd0fd45964661304ae5ca62d58e3b7475c026e63b9299de5"
+    },
+    {
+      "path": "assets/otros/space stations/space-station/textures/Station_Roughness.png",
+      "bytes": 1809579,
+      "sha256": "274d41f03e39aef97590fb63f1d9a7f3b3d2fa634b8fa26ffa7da8a4eaf38bb9"
+    },
+    {
+      "path": "assets/otros/space stations/space-station.zip",
+      "bytes": 21410972,
+      "sha256": "0d1785cc8a9e27b1f55c8b7a8fcc59866748b28aeb1367825beb93004978113d"
+    },
+    {
+      "path": "assets/otros/space stations/space_station.glb",
+      "bytes": 13271268,
+      "sha256": "41b353e3b9850d8a1b67ea60dc57bbe1dcedc487e409f2fe24b1e3106b4583da"
+    },
+    {
+      "path": "assets/otros/universe/planets/green-planet.zip",
+      "bytes": 55597319,
+      "sha256": "aa38be7f3a7c61cd7f7c9c65b19452f27e521f3cc3437be85df145ea0fd16a1d"
+    },
+    {
+      "path": "assets/otros/universe/planets/green_planet.glb",
+      "bytes": 45654432,
+      "sha256": "3d257875de5c8fac12958713ae31c62f0960916fbdcfe0ddb940cd30f220e87d"
+    },
+    {
+      "path": "assets/otros/universe/planets/jupiter-free-downloadable-model.zip",
+      "bytes": 6539134,
+      "sha256": "0fb1b278e2873441cb9ed1cfe035a528c2dfdda25f848297f368c19ae96afcfb"
+    },
+    {
+      "path": "assets/otros/universe/planets/photorealistic-moon.zip",
+      "bytes": 83206696,
+      "sha256": "b717ef442d201b95eb28746d93160c5367276711b65349df079b9140005c4801"
+    },
+    {
+      "path": "assets/otros/universe/planets/planet-earth.zip",
+      "bytes": 47371179,
+      "sha256": "37989d9d65c35b49d5b8f3889d9cf9477b272c106bc8f448945df22e18fb064b"
+    },
+    {
+      "path": "assets/otros/universe/planets/planet-venus.zip",
+      "bytes": 22865813,
+      "sha256": "f8b93c313bfad39d8aff4554046d1b584698e0ed5c9ae9886bb1cf34f173ae87"
+    },
+    {
+      "path": "assets/otros/universe/planets/planet_earth (2).glb",
+      "bytes": 18402500,
+      "sha256": "ef1a24ca2fa3db9cc4ecae15d4451515194b1d5355d87b912e456de0a2f64efc"
+    },
+    {
+      "path": "assets/otros/universe/planets/planet_venus.glb",
+      "bytes": 12372180,
+      "sha256": "ef3c2119ccd90472853f2712daf629729f720e9a77e524aa2b56f49f68d7756d"
+    },
+    {
+      "path": "assets/otros/universe/planets/saturn-planet.zip",
+      "bytes": 2860455,
+      "sha256": "8121820ce1ca4f314669b5a4f93a679b1968280c6f6096263337282e4d8a2ced"
+    },
+    {
+      "path": "assets/otros/universe/planets/various-planets.zip",
+      "bytes": 101877818,
+      "sha256": "ba0c3c482794c830ee2adc9e430089952b984c1bff85b409713e2015005e751b"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-prominence/source/0000000.blend",
+      "bytes": 144532616,
+      "sha256": "7bba5460b9c2bc87d0516064fbe6ed47744ba6e26cd39afd4396caf2aa251738"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-prominence/textures/500_(4).jpeg",
+      "bytes": 98758,
+      "sha256": "330275b90782edd6021295530849624dbfa180bfbb5a6976f7c6142edaff18df"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-prominence/textures/500_(7).jpeg",
+      "bytes": 77473,
+      "sha256": "140bd71926164d77e8ffb920e078c0e12a97c3f0480a81fc61811a2d8b30533d"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-prominence/textures/86133191-abstract-halftone-random-white-do.jpeg",
+      "bytes": 1132378,
+      "sha256": "fe5170a0cedc8cf968b8ec00ac17b8970d8655d81f30d5f15c74c47bed278467"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/source/Solar System.blend",
+      "bytes": 4648554,
+      "sha256": "5fbd65bd18f23b1f22202f8049069e1ccd8ed6d37f75281df37fc1ce5e702e47"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_earth_daymap.jpg",
+      "bytes": 463087,
+      "sha256": "767ee1dc6eb3802699bfccf6f264880f8acd0b80de3191cd24984fe279b07b7c"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_jupiter.jpg",
+      "bytes": 498976,
+      "sha256": "b0f04d005350252636b0e3396fc592548cbd9e9126b269d32d5c6abd4b0e4f2b"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_mars.jpg",
+      "bytes": 750547,
+      "sha256": "2d187f3e77a98eaa8cea5f4cc722f633c122ef170b9e94ace6b5fb6cbc3f8e01"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_mercury.jpg",
+      "bytes": 872555,
+      "sha256": "5a5c80607f643496bac9a631e71957def35ed788895f18b678ac849c2b38e48a"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_moon.jpg",
+      "bytes": 1053869,
+      "sha256": "2764ba6535ea0481a062846ee033cc7a909dae05b31a8fd13f3e98f3a7fd92bd"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_neptune.jpg",
+      "bytes": 241580,
+      "sha256": "cb42ea82709741d28b0af44d8b283cbc6dbd0c521a7f0e1e1e010ade00977df6"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_saturn.jpg",
+      "bytes": 199916,
+      "sha256": "54a900ca9bf7ab62e70f862852759abdf342e6d6436a95a2fe9ebdb6bcd3bbac"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_saturn_ring_alpha.png",
+      "bytes": 12119,
+      "sha256": "4b0644b2f3ef259fd0bfaedd9dc52f9e7d9738f65f50363e8c4dd19f650d7334"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_sun.jpg",
+      "bytes": 822427,
+      "sha256": "ff0f076ba65e03b5ab518451bc96699325be38e3ccbdd5869ee1c00f3a0c8816"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_uranus.jpg",
+      "bytes": 77751,
+      "sha256": "d15239d46f82d3ea13d2b260b5b29b2a382f42f2916dae0694d0387b1204a09d"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar-system-animation/textures/2k_venus_surface.jpg",
+      "bytes": 885075,
+      "sha256": "dbe5db1c794a8ab4cbf7dd6bf193540c400fc833ce1e6cc399318aa68026278b"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar_prominence.glb",
+      "bytes": 67183972,
+      "sha256": "755e6aa606325ff29eddfc56b5843272b2826145add869d62d6992b79f3cf9be"
+    },
+    {
+      "path": "assets/otros/universe/stars/solar_system_animation.glb",
+      "bytes": 10637572,
+      "sha256": "4f9326223248c2e53b05ad3f8c19330d4292db24332e4c2e98cd3691875f174a"
+    },
+    {
+      "path": "assets/otros/vehicles/rover/argo-ii-type-rover-star-trek-zeo.zip",
+      "bytes": 71403650,
+      "sha256": "db95834d6f1987714270e083206d5612d068ad609807ff441248a71f88c8fcd8"
+    },
+    {
+      "path": "assets/otros/vehicles/rover/argo_ii_type_rover_star_trek_zeo.glb",
+      "bytes": 92734984,
+      "sha256": "7bbbd489d1c71096a1c0fb008f5c0d2c2809497e523eb5076d28b564142aeea0"
+    },
+    {
+      "path": "assets/otros/vehicles/rover/argo_ii_type_rover_star_trek_zeo.zip",
+      "bytes": 56113365,
+      "sha256": "72108f548a7635b3cf68c2c94e4d819bb1498dcf070e5a3b03a749ba4e2ac5e7"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/45 grados.png",
+      "bytes": 345715,
+      "sha256": "57eb4822ae18146cd65826e65eddcdd7844d1ea902fef9939278c2fcdaf9c463"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/Anexo 2.png",
+      "bytes": 2036967,
+      "sha256": "d1268913a8f67caf7df76f9b043a3645afc4a4b55d4a06c6d27d068e65aef6c5"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/Anexo.png",
+      "bytes": 1773938,
+      "sha256": "090c7ee26e6a62d7163d170077a533f785f6c3a4fd3d44731a72fd4759cf53d1"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/Back view.png",
+      "bytes": 1035652,
+      "sha256": "3b4d962a7df16e7c57b3bf1e3102efacb28e76b61789eb986516245273c8e7c2"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/Consola CONN y vuelo.png",
+      "bytes": 1257285,
+      "sha256": "fcf818aa002c1030f263b6549365fffa441f6bb65b2b009e7d3f8ee1d7fd6d0a"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/Consola lateral 2.png",
+      "bytes": 2289563,
+      "sha256": "4573189a71d160d293dfd03cf93591d645215bf59da758563a01cf0adc1e6fac"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/Consola lateral.png",
+      "bytes": 997912,
+      "sha256": "f662505dbc32e54120579b381f1e95d5776eceb1fef4dcff752733f8824b3b26"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/frontal.png",
+      "bytes": 406971,
+      "sha256": "9f0794ca2849aa81604f586e8b0fb949fa84204688ad200dcb4f8f1e0d6b2994"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/Silla capitan.png",
+      "bytes": 1449180,
+      "sha256": "bc57e914ddbae86575ca4320e98644f1cb3b7a4644a59ce90321d60283a1b0be"
+    },
+    {
+      "path": "assets/uss_theurgy/imagenes_puente/zenital.png",
+      "bytes": 483104,
+      "sha256": "7dc7e7b59a4b2917bd01b623675331213dc565be2bb00819f02f7ee7ac4135bd"
+    },
+    {
+      "path": "assets/uss_theurgy/planos/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "protected_scenes": [
+    {
+      "path": "blender/principal/enterprise_importacion_inicial.blend",
+      "sha256": "0a55058552623995200fd5e16ddc327d5a6b2f6c54bbb9754f8340d01c885148",
+      "bytes": 21386736
+    },
+    {
+      "path": "blender/principal/theurgy_trabajo_v0_1.blend",
+      "sha256": "a47bf96edd671bfbf6f68ccbadf8ee03938fd81e68df18ba3a41e65badefb093",
+      "bytes": 21399605
+    },
+    {
+      "path": "blender/analisis/ascendant_v1/ascendant_dae_analisis.blend",
+      "sha256": "519b7905a663b6ab0a2f621d53af71979dbb91cd79a2c59fdae6af1fcc47a8ea",
+      "bytes": 22832210
+    }
+  ],
+  "prior_reports": [
+    {
+      "path": "docs/auditorias/AUDITORIA_ASCENDANT_LOCAL.md",
+      "sha256": "c6d24b96d81d76cfe88d905c4a6604b0444bfd9d7c51ddd23f723c8ae5318636"
+    },
+    {
+      "path": "docs/auditorias/AUDITORIA_GEOMETRICA_ENTERPRISE.md",
+      "sha256": "b26cc24c745095dc5198e5d232ac1a427755e537ace5064a8a01259efff94f7a"
+    },
+    {
+      "path": "docs/auditorias/ESCALA_Y_TRANSITABILIDAD_ENTERPRISE.md",
+      "sha256": "f94a6d489b3899850710051d2511858256577e44e721be77e7cb7c06e324dad2"
+    },
+    {
+      "path": "docs/auditorias/ESTADO_IMPORTACION_BLENDER.md",
+      "sha256": "cb5ef12f88261ed9ab2eeefbd09ed0498fa1ef808411703ff7ddb9ae70ca352e"
+    },
+    {
+      "path": "docs/auditorias/IDENTIFICACIONES_ENTERPRISE.json",
+      "sha256": "c3dc99e2a4e95e0bdf1894cca2ecdc4f3e7283fa146c39f0ed6c5ec3a9daee02"
+    },
+    {
+      "path": "docs/auditorias/INVENTARIO_LOCAL_DATOS.json",
+      "sha256": "5e59c5a19324f0dc4fc492859f0e4582af19641e3aefddf2f861a7dc86a881f5"
+    },
+    {
+      "path": "docs/auditorias/INVENTARIO_LOCAL_INICIAL.md",
+      "sha256": "66230514beecbeaa778da7cb2a78521639ed1493b71899a926c85983d39e3e86"
+    },
+    {
+      "path": "docs/auditorias/MAPA_OBJETOS_ENTERPRISE.csv",
+      "sha256": "1a26a385f07bc2d132de0fbb054d68280328e333971f08ac0f4b8f57fabd9a6d"
+    },
+    {
+      "path": "docs/auditorias/PLAN_FASE_4_INTERVENCION_POSTERIOR.md",
+      "sha256": "d054e478533d8bc19a9016edbae0ea8026e5971d605eec809c51f12546524536"
+    },
+    {
+      "path": "docs/auditorias/PREPARACION_MISSION_OPS.md",
+      "sha256": "127caa131644526092f1b7c05af3d1d21b9e812cf9acf2046d2bd186754cebe4"
+    },
+    {
+      "path": "docs/auditorias/VERIFICACION_FINAL_FASE3.json",
+      "sha256": "c3e26af7952c6a90a05e437a7462d22a0d23c829590f615b18f62f72430dd547"
+    },
+    {
+      "path": "docs/auditorias/ascendant_bpy_v1/CONCILIACION_Y_MODULOS.json",
+      "sha256": "e65292bc7ff0b8b88d1f2050f5143b58c53f8f32af3710912dd758beefa8c058"
+    },
+    {
+      "path": "docs/auditorias/ascendant_bpy_v1/CONTRASTE_FORMATOS_ASCENDANT.json",
+      "sha256": "2ee35822a4c926bab07fab8b0226ef6364372f719b879407c407347e6bfc458e"
+    },
+    {
+      "path": "docs/auditorias/ascendant_bpy_v1/DAE_BLENDER.json",
+      "sha256": "7202c1c4f90ac6b03f34e3074decffc3a3713654b5dc46c5a143555a04c06142"
+    },
+    {
+      "path": "docs/auditorias/ascendant_bpy_v1/GLB_BLENDER.json",
+      "sha256": "e91534862fa93f8fedb7c2fd12b1c08ddbb04790646571a492354a8c98aa957e"
+    },
+    {
+      "path": "docs/auditorias/ascendant_bpy_v1/TRANSITABILIDAD_ASCENDANT.json",
+      "sha256": "04cdb2d864735588afd85303591ecbfd6956cce1179b8cf5605d834709fe346f"
+    },
+    {
+      "path": "docs/auditorias/ascendant_bpy_v1/VERIFICACION_FINAL.json",
+      "sha256": "80b8ba6a4784e690bb9fac42fd99021e6f2525c9eae26a79891a6cc2794d4388"
+    },
+    {
+      "path": "docs/auditorias/ascendant_fuentes_v1/ARCHIVOS_ASCENDANT.csv",
+      "sha256": "1ef52132823de3c4423f4d226efd1b643c111fd514e90dd1d65100085755ce3e"
+    },
+    {
+      "path": "docs/auditorias/ascendant_fuentes_v1/FUENTES_ASCENDANT.json",
+      "sha256": "a680a6c9d49c8cafa5e5fc448318601c26bf593eb85702f1ff1da87c8cc3b68e"
+    },
+    {
+      "path": "docs/auditorias/enterprise_bpy_v1/AUDITORIA_ENTERPRISE_DATOS.json",
+      "sha256": "e04f679e35df420669f32af47ecdd583af02438df11aaf92578fd3cc4db79e76"
+    },
+    {
+      "path": "docs/auditorias/enterprise_bpy_v1/MAPA_OBJETOS_ENTERPRISE.csv",
+      "sha256": "137fd70c932198a2350ca7ca1dd5539b72c64ad8837ab16237445eaf0059ba54"
+    },
+    {
+      "path": "docs/auditorias/enterprise_bpy_v2/AUDITORIA_ENTERPRISE_DATOS.json",
+      "sha256": "0048b317d01b1fcb83fbe782582859946b1eba6f4b8c044be22b6a6228813a15"
+    },
+    {
+      "path": "docs/auditorias/enterprise_bpy_v2/CONTRASTE_DAE_BLENDER.json",
+      "sha256": "b12d47dd32efe6d7002a227cb337fae5814786a56f0f81d97bf27d297f3a3414"
+    },
+    {
+      "path": "docs/auditorias/enterprise_bpy_v2/MAPA_OBJETOS_ENTERPRISE.csv",
+      "sha256": "d3d9188f343842e65d29aedb7bd170c5db3343f3b6739c72f01c06628fa87ed7"
+    },
+    {
+      "path": "docs/auditorias/enterprise_bpy_v2/VERIFICACION_FINAL.json",
+      "sha256": "f57c1cc3f432e0585129189a7ea79bd65105c981f773d2d39e14ec511958106f"
+    },
+    {
+      "path": "docs/auditorias/fase3_bpy_v1/CANDIDATOS_POSTERIOR.json",
+      "sha256": "316ba44836abf2b448aa06cf2ff228c0eb4b2d36c5cce6d2019dfb9a2111a47c"
+    },
+    {
+      "path": "docs/auditorias/fase3_bpy_v1/MEDICIONES_FASE3.json",
+      "sha256": "a48b77485f6f684486cc548ad7410e354ad3b075ae3076dafa174ed67aceb723"
+    },
+    {
+      "path": "docs/auditorias/fase3_bpy_v1/MUESTRAS_PLANTA.csv",
+      "sha256": "a07048154489567a682ad87b0571635d9d8c8c970c575b1438492f5d54cd1dd5"
+    },
+    {
+      "path": "docs/auditorias/fase3_rutas_v4/CANDIDATOS_POSTERIOR.json",
+      "sha256": "316ba44836abf2b448aa06cf2ff228c0eb4b2d36c5cce6d2019dfb9a2111a47c"
+    },
+    {
+      "path": "docs/auditorias/fase3_rutas_v4/ERGONOMIA_PUESTOS.json",
+      "sha256": "056a31fbd01f2a1d53317cd7c64a67ff525240760b0021b95c94440246fbcdc6"
+    },
+    {
+      "path": "docs/auditorias/fase3_rutas_v4/MEDICIONES_FASE3.json",
+      "sha256": "fa41e6c2be6f9b6ff8ec90340439dd2431b34c2b6e8601987e1cfeb5154cf148"
+    },
+    {
+      "path": "docs/auditorias/fase3_rutas_v4/MUESTRAS_PLANTA.csv",
+      "sha256": "0be0a511f6190fb573f80df5ed1fb15756791e23999bdc93f1498a2ec11dd7c3"
+    },
+    {
+      "path": "docs/auditorias/fase3_rutas_v4/ZONAS_TRANSITABILIDAD.csv",
+      "sha256": "f3637c3b27313c3de3608f70129c3148a2e7450243a36459adbc136f5af4bb61"
+    }
+  ],
+  "git_initial_clean": true,
+  "branch": "audit/ascendant-vs-enterprise"
+}

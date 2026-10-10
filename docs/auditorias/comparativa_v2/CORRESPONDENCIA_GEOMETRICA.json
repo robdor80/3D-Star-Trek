@@ -1,0 +1,71 @@
+{
+  "schema": "enterprise-ascendant-comparison-v1",
+  "identity_alignment": true,
+  "coordinate_transforms_saved": false,
+  "sources": {
+    "enterprise": {
+      "path": "blender/principal/enterprise_importacion_inicial.blend",
+      "sha256": "0a55058552623995200fd5e16ddc327d5a6b2f6c54bbb9754f8340d01c885148"
+    },
+    "ascendant": {
+      "path": "blender/analisis/ascendant_v1/ascendant_dae_analisis.blend",
+      "sha256": "519b7905a663b6ab0a2f621d53af71979dbb91cd79a2c59fdae6af1fcc47a8ea"
+    }
+  },
+  "canonical_triangle_method": "Each world vertex rounded to grid; lexicographic vertices then sorted multiset. Ignores winding/UV/materials. Same key implies <=sqrt(3)*q positional difference per vertex; grid-boundary disagreements cause false negatives. Multiplicity retained.",
+  "contrasts": [
+    {
+      "quantization_m": 0.0001,
+      "shared_triangle_multiset_count": 2065576,
+      "shared_distinct_triangle_keys": 1033654,
+      "enterprise_total": 2138266,
+      "ascendant_total": 2467116,
+      "enterprise_percent": 96.60051649327072,
+      "ascendant_percent": 83.72431616510939,
+      "enterprise_area_with_present_keys_m2": 2975.741251115197,
+      "ascendant_area_with_present_keys_m2": 3285.214439345369
+    },
+    {
+      "quantization_m": 0.0005,
+      "shared_triangle_multiset_count": 2065580,
+      "shared_distinct_triangle_keys": 964538,
+      "enterprise_total": 2138266,
+      "ascendant_total": 2467116,
+      "enterprise_percent": 96.60070356073567,
+      "ascendant_percent": 83.72447829773712,
+      "enterprise_area_with_present_keys_m2": 2975.7412511256043,
+      "ascendant_area_with_present_keys_m2": 3285.2144400050056
+    },
+    {
+      "quantization_m": 0.001,
+      "shared_triangle_multiset_count": 2065624,
+      "shared_distinct_triangle_keys": 898523,
+      "enterprise_total": 2138266,
+      "ascendant_total": 2467116,
+      "enterprise_percent": 96.60276130285007,
+      "ascendant_percent": 83.72626175664217,
+      "enterprise_area_with_present_keys_m2": 2975.7452004018196,
+      "ascendant_area_with_present_keys_m2": 3285.218395334282
+    }
+  ],
+  "subtree_matches": [
+    {
+      "enterprise": "pantalla",
+      "ascendant": "pantalla",
+      "triangles": 160
+    }
+  ],
+  "classification_counts": {
+    "enterprise": {
+      "EQUIVALENTE_TRIANGULOS_CUANTIZADOS": 9556,
+      "PARCIAL_O_MODIFICADA": 47,
+      "SIN_CORRESPONDENCIA_TRIANGULAR_ACREDITADA": 182
+    },
+    "ascendant": {
+      "SIN_CORRESPONDENCIA_TRIANGULAR_ACREDITADA": 1617,
+      "EQUIVALENTE_TRIANGULOS_CUANTIZADOS": 9515,
+      "PARCIAL_O_MODIFICADA": 47
+    }
+  },
+  "limits": "Triangular difference is not proof of exclusive surface: topology/tessellation/rounding may differ. Historial de derivación no se acredita por geometría sola."
+}

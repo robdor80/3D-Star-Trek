@@ -1,0 +1,697 @@
+{
+  "method": "World quantization .1mm, full triangles intersecting prior rear prism, multiset/winding ignored. Raw local shape set quantization 1e-5 mesh units, ignores duplicated triangles and winding; no normalization of scale/rotation.",
+  "anchors": [
+    {
+      "enterprise": "ID220",
+      "triangles": 174,
+      "world_multiset_matches": [],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID10364",
+          "triangles": 348
+        }
+      ]
+    },
+    {
+      "enterprise": "ID475",
+      "triangles": 58,
+      "world_multiset_matches": [],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID10619",
+          "triangles": 116
+        }
+      ]
+    },
+    {
+      "enterprise": "ID1471",
+      "triangles": 160,
+      "world_multiset_matches": [
+        "ID11615"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID11615",
+          "triangles": 160
+        }
+      ]
+    },
+    {
+      "enterprise": "ID13059",
+      "triangles": 7580,
+      "world_multiset_matches": [],
+      "world_distinct_matches": []
+    },
+    {
+      "enterprise": "ID13069",
+      "triangles": 2140,
+      "world_multiset_matches": [],
+      "world_distinct_matches": []
+    },
+    {
+      "enterprise": "ID13285",
+      "triangles": 126,
+      "world_multiset_matches": [
+        "ID20466"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID20466",
+          "triangles": 126
+        }
+      ]
+    },
+    {
+      "enterprise": "ID13295",
+      "triangles": 150,
+      "world_multiset_matches": [
+        "ID20474"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID20474",
+          "triangles": 150
+        }
+      ]
+    },
+    {
+      "enterprise": "ID13545",
+      "triangles": 58,
+      "world_multiset_matches": [
+        "ID20674"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID20674",
+          "triangles": 58
+        }
+      ]
+    },
+    {
+      "enterprise": "ID13907",
+      "triangles": 976,
+      "world_multiset_matches": [
+        "ID20998"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID20998",
+          "triangles": 976
+        }
+      ]
+    },
+    {
+      "enterprise": "ID13917",
+      "triangles": 484,
+      "world_multiset_matches": [
+        "ID21008"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID21008",
+          "triangles": 484
+        }
+      ]
+    },
+    {
+      "enterprise": "ID14178",
+      "triangles": 224,
+      "world_multiset_matches": [
+        "ID21171"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID21171",
+          "triangles": 224
+        }
+      ]
+    },
+    {
+      "enterprise": "ID1908",
+      "triangles": 4828,
+      "world_multiset_matches": [
+        "ID12029"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID12029",
+          "triangles": 4828
+        }
+      ]
+    },
+    {
+      "enterprise": "ID1651",
+      "triangles": 13806,
+      "world_multiset_matches": [
+        "ID11772"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID11772",
+          "triangles": 13806
+        }
+      ]
+    },
+    {
+      "enterprise": "ID1836",
+      "triangles": 13806,
+      "world_multiset_matches": [
+        "ID11957"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID11957",
+          "triangles": 13806
+        }
+      ]
+    },
+    {
+      "enterprise": "ID11576",
+      "triangles": 38,
+      "world_multiset_matches": [
+        "ID19075"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID19075",
+          "triangles": 38
+        }
+      ]
+    },
+    {
+      "enterprise": "ID11750",
+      "triangles": 20,
+      "world_multiset_matches": [
+        "ID19197"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID19197",
+          "triangles": 20
+        }
+      ]
+    },
+    {
+      "enterprise": "ID11576.001",
+      "triangles": 38,
+      "world_multiset_matches": [
+        "ID19075.001"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID19075.001",
+          "triangles": 38
+        }
+      ]
+    },
+    {
+      "enterprise": "ID19639",
+      "triangles": 7580,
+      "world_multiset_matches": [],
+      "world_distinct_matches": []
+    },
+    {
+      "enterprise": "ID19649",
+      "triangles": 2140,
+      "world_multiset_matches": [],
+      "world_distinct_matches": []
+    },
+    {
+      "enterprise": "ID19865",
+      "triangles": 126,
+      "world_multiset_matches": [
+        "ID25524"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID25524",
+          "triangles": 126
+        }
+      ]
+    },
+    {
+      "enterprise": "ID19875",
+      "triangles": 150,
+      "world_multiset_matches": [
+        "ID25532"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID25532",
+          "triangles": 150
+        }
+      ]
+    },
+    {
+      "enterprise": "ID20751",
+      "triangles": 224,
+      "world_multiset_matches": [
+        "ID26220"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID26220",
+          "triangles": 224
+        }
+      ]
+    },
+    {
+      "enterprise": "ID16806",
+      "triangles": 232,
+      "world_multiset_matches": [
+        "ID23083"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID23083",
+          "triangles": 232
+        }
+      ]
+    },
+    {
+      "enterprise": "ID18193",
+      "triangles": 38,
+      "world_multiset_matches": [
+        "ID24160"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID24160",
+          "triangles": 38
+        }
+      ]
+    },
+    {
+      "enterprise": "ID18193.001",
+      "triangles": 38,
+      "world_multiset_matches": [
+        "ID24160.001"
+      ],
+      "world_distinct_matches": [
+        {
+          "ascendant": "ID24160.001",
+          "triangles": 38
+        }
+      ]
+    }
+  ],
+  "front_chair_left_local_shape_matches": [
+    {
+      "enterprise": "ID21484.001",
+      "triangles": 1602,
+      "distinct_local_keys": 1602,
+      "ascendant_front_raw_local_matches": [],
+      "ascendant_front_centered_local_matches": []
+    },
+    {
+      "enterprise": "ID21492.001",
+      "triangles": 1210,
+      "distinct_local_keys": 1210,
+      "ascendant_front_raw_local_matches": [],
+      "ascendant_front_centered_local_matches": []
+    },
+    {
+      "enterprise": "ID21502.001",
+      "triangles": 496,
+      "distinct_local_keys": 248,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6950",
+          "triangles": 496,
+          "distinct_local_keys": 248
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6950"
+      ]
+    },
+    {
+      "enterprise": "ID21221.001",
+      "triangles": 178,
+      "distinct_local_keys": 178,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6662",
+          "triangles": 356,
+          "distinct_local_keys": 178
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6662"
+      ]
+    },
+    {
+      "enterprise": "ID21229.001",
+      "triangles": 240,
+      "distinct_local_keys": 240,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6670",
+          "triangles": 480,
+          "distinct_local_keys": 240
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6670"
+      ]
+    },
+    {
+      "enterprise": "ID21237.001",
+      "triangles": 58,
+      "distinct_local_keys": 58,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6678",
+          "triangles": 116,
+          "distinct_local_keys": 58
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6678"
+      ]
+    },
+    {
+      "enterprise": "ID21250.001",
+      "triangles": 620,
+      "distinct_local_keys": 620,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6691",
+          "triangles": 1240,
+          "distinct_local_keys": 620
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6691"
+      ]
+    },
+    {
+      "enterprise": "ID21258.001",
+      "triangles": 468,
+      "distinct_local_keys": 468,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6701",
+          "triangles": 936,
+          "distinct_local_keys": 468
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6701"
+      ]
+    },
+    {
+      "enterprise": "ID21270.001",
+      "triangles": 3356,
+      "distinct_local_keys": 3356,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6718",
+          "triangles": 6712,
+          "distinct_local_keys": 3356
+        },
+        {
+          "name": "ID6804",
+          "triangles": 6712,
+          "distinct_local_keys": 3356
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6718",
+        "ID6804"
+      ]
+    },
+    {
+      "enterprise": "ID21278.001",
+      "triangles": 120,
+      "distinct_local_keys": 120,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6726",
+          "triangles": 240,
+          "distinct_local_keys": 120
+        },
+        {
+          "name": "ID6812",
+          "triangles": 240,
+          "distinct_local_keys": 120
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6726",
+        "ID6812"
+      ]
+    },
+    {
+      "enterprise": "ID21356.001",
+      "triangles": 3356,
+      "distinct_local_keys": 3356,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6718",
+          "triangles": 6712,
+          "distinct_local_keys": 3356
+        },
+        {
+          "name": "ID6804",
+          "triangles": 6712,
+          "distinct_local_keys": 3356
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6718",
+        "ID6804"
+      ]
+    },
+    {
+      "enterprise": "ID21364.001",
+      "triangles": 120,
+      "distinct_local_keys": 120,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6726",
+          "triangles": 240,
+          "distinct_local_keys": 120
+        },
+        {
+          "name": "ID6812",
+          "triangles": 240,
+          "distinct_local_keys": 120
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6726",
+        "ID6812"
+      ]
+    },
+    {
+      "enterprise": "ID21442.001",
+      "triangles": 914,
+      "distinct_local_keys": 914,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6890",
+          "triangles": 1828,
+          "distinct_local_keys": 914
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6890"
+      ]
+    },
+    {
+      "enterprise": "ID21452.001",
+      "triangles": 4,
+      "distinct_local_keys": 4,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6900",
+          "triangles": 8,
+          "distinct_local_keys": 4
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6900",
+        "ID6908"
+      ]
+    },
+    {
+      "enterprise": "ID21460.001",
+      "triangles": 4,
+      "distinct_local_keys": 4,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6908",
+          "triangles": 8,
+          "distinct_local_keys": 4
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6900",
+        "ID6908"
+      ]
+    },
+    {
+      "enterprise": "ID21468.001",
+      "triangles": 4,
+      "distinct_local_keys": 4,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6916",
+          "triangles": 8,
+          "distinct_local_keys": 4
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6916",
+        "ID6924"
+      ]
+    },
+    {
+      "enterprise": "ID21476.001",
+      "triangles": 4,
+      "distinct_local_keys": 4,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6924",
+          "triangles": 8,
+          "distinct_local_keys": 4
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6916",
+        "ID6924"
+      ]
+    },
+    {
+      "enterprise": "ID21520.001",
+      "triangles": 528,
+      "distinct_local_keys": 528,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6968",
+          "triangles": 1056,
+          "distinct_local_keys": 528
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6968"
+      ]
+    },
+    {
+      "enterprise": "ID21528.001",
+      "triangles": 396,
+      "distinct_local_keys": 396,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6976",
+          "triangles": 792,
+          "distinct_local_keys": 396
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6976"
+      ]
+    },
+    {
+      "enterprise": "ID21536.001",
+      "triangles": 2,
+      "distinct_local_keys": 2,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6984",
+          "triangles": 4,
+          "distinct_local_keys": 2
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6984",
+        "ID7008"
+      ]
+    },
+    {
+      "enterprise": "ID21544.001",
+      "triangles": 702,
+      "distinct_local_keys": 702,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID6992",
+          "triangles": 1404,
+          "distinct_local_keys": 702
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6992"
+      ]
+    },
+    {
+      "enterprise": "ID21552.001",
+      "triangles": 264,
+      "distinct_local_keys": 264,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID7000",
+          "triangles": 528,
+          "distinct_local_keys": 264
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID7000"
+      ]
+    },
+    {
+      "enterprise": "ID21560.001",
+      "triangles": 2,
+      "distinct_local_keys": 2,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID7008",
+          "triangles": 4,
+          "distinct_local_keys": 2
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID6984",
+        "ID7008"
+      ]
+    },
+    {
+      "enterprise": "ID21568.001",
+      "triangles": 396,
+      "distinct_local_keys": 396,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID7016",
+          "triangles": 792,
+          "distinct_local_keys": 396
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID7016"
+      ]
+    },
+    {
+      "enterprise": "ID21576.001",
+      "triangles": 264,
+      "distinct_local_keys": 264,
+      "ascendant_front_raw_local_matches": [
+        {
+          "name": "ID7024",
+          "triangles": 528,
+          "distinct_local_keys": 264
+        }
+      ],
+      "ascendant_front_centered_local_matches": [
+        "ID7024"
+      ]
+    }
+  ],
+  "rear_prism_world_matches": {
+    "enterprise_triangles": 6828,
+    "ascendant_triangles": 6828,
+    "multiset_common": 6828,
+    "distinct_common": 3414
+  },
+  "limits": "Local shape matching does not prove same pose/UV/materials/face orientation. Nonmatching hashes do not prove exclusive surfaces.",
+  "scenes_unchanged": true
+}

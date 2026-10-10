@@ -1,0 +1,603 @@
+{
+  "source_xml": {
+    "enterprise": {
+      "path": "assets/enterprise_kelvin/modelo_original/uss-enterprise-a-new-bridge/source/ENT-A1_dae/model.dae",
+      "authoring_tool": "SketchUp 23.1.340",
+      "created": "2024-03-29T14:03:21Z",
+      "modified": "2024-03-29T14:03:21Z",
+      "unit": {
+        "meter": "0.0254",
+        "name": "inch"
+      },
+      "up_axis": "Z_UP",
+      "material_names": {
+        "ID14": "Dark_Gray",
+        "ID20": "edge_color353535255",
+        "ID22": "edge_color000255",
+        "ID56": "material",
+        "ID99": "WHITE_GLOW",
+        "ID129": "edge_color255255255255",
+        "ID135": "Color_M09",
+        "ID201": "Gray",
+        "ID207": "edge_color141141141255",
+        "ID221": "HONEYCOMB_GLOW_2",
+        "ID1472": "VIEWSCREEN_GLOW",
+        "ID1482": "edge_color128128128255",
+        "ID1496": "material_1",
+        "ID1502": "edge_color251255248255",
+        "ID1528": "Aluminum",
+        "ID1534": "edge_color179179179255",
+        "ID3030": "NewTrekLCARS",
+        "ID4179": "edge_color274661255",
+        "ID4912": "edge_color868686255",
+        "ID4979": "Color_M04",
+        "ID4986": "edge_color142142142255",
+        "ID5008": "edge_color15300255",
+        "ID5305": "Color_A07",
+        "ID6389": "Blinds_Roman_Hobbled_Blue",
+        "ID6958": "GLASS_FLOOR",
+        "ID7112": "iso_web_yellow2",
+        "ID11095": "edge_color929294255",
+        "ID11102": "__",
+        "ID11112": "edge_color215216215255",
+        "ID11301": "_58cd499217289.560ca8b44d983",
+        "ID11587": "Color_M06",
+        "ID11734": "edge_color20400255",
+        "ID11761": "Color_A06",
+        "ID13631": "edge_color71148214255",
+        "ID13938": "GRATE_GLOW",
+        "ID20933": "__LightGray_",
+        "ID20939": "Invisible",
+        "ID20948": "Color_006",
+        "ID20959": "Console_Plastic",
+        "ID21000": "material_4",
+        "ID21057": "material_44",
+        "ID21072": "material_46",
+        "ID21097": "material_7",
+        "ID21112": "material_48",
+        "ID21163": "__DimGray_",
+        "ID21173": "material_3",
+        "ID21638": "__Charcoal_",
+        "ID21674": "material_3_0",
+        "ID21697": "material_54",
+        "ID21756": "material_3_1",
+        "ID21781": "material_28",
+        "ID21796": "__Charcoal_4",
+        "ID21833": "Color_M05",
+        "ID21839": "edge_color114114114255",
+        "ID21869": "material_43"
+      }
+    },
+    "ascendant": {
+      "path": "assets/otros/bridges/USS Ascendant bridge/uss-ascendant-bridge/source/USS+ASCENDANT+BRIDGE+FINAL/model.dae",
+      "authoring_tool": "SketchUp 14.0.1",
+      "created": "2020-01-10T08:40:42Z",
+      "modified": "2020-01-10T08:40:42Z",
+      "unit": {
+        "meter": "0.0254",
+        "name": "inch"
+      },
+      "up_axis": "Z_UP",
+      "material_names": {
+        "ID10": "Silver",
+        "ID17": "material",
+        "ID18": "edge_color165165165255",
+        "ID62": "Gray",
+        "ID68": "edge_color141141141255",
+        "ID75": "material_0",
+        "ID80": "edge_color000255",
+        "ID88": "Dark_Gray",
+        "ID94": "edge_color353535255",
+        "ID253": "Honeycomb_Grate",
+        "ID444": "WHITE_GLOW",
+        "ID1065": "NewTrekLCARS",
+        "ID1358": "edge_color255255255255",
+        "ID1680": "edge_color636465255",
+        "ID3227": "__auto_1",
+        "ID3339": "__auto_10",
+        "ID3377": "__auto_11",
+        "ID4811": "edge_color274661255",
+        "ID5117": "__auto_",
+        "ID6696": "edge_color215216215255",
+        "ID6702": "_58cd499217289.560ca8b44d983",
+        "ID10365": "HONEYCOMB_GLOW_2",
+        "ID11616": "VIEWSCREEN_GLOW",
+        "ID11626": "edge_color128128128255",
+        "ID11640": "material_1",
+        "ID11646": "edge_color251255248255",
+        "ID14724": "Blinds_Roman_Hobbled_Blue",
+        "ID15235": "GLASS_FLOOR",
+        "ID15387": "iso_web_yellow2",
+        "ID20752": "edge_color71148214255",
+        "ID21003": "edge_color373592255",
+        "ID21019": "GRATE_GLOW",
+        "ID21387": "_0e3a929217289.560caa6605fe9",
+        "ID21762": "edge_color204205205255"
+      }
+    }
+  },
+  "material_counts": {
+    "enterprise": {
+      "all_materials": 56,
+      "face_materials": 39,
+      "face_materials_shared": 35,
+      "used_images": 20,
+      "surface_mesh_blocks": 2138,
+      "surface_mesh_blocks_with_uv": 1350,
+      "surface_mesh_objects_with_uv": 5526,
+      "textured_face_objects_without_uv": 0
+    },
+    "ascendant": {
+      "all_materials": 34,
+      "face_materials": 21,
+      "face_materials_shared": 20,
+      "used_images": 9,
+      "surface_mesh_blocks": 2933,
+      "surface_mesh_blocks_with_uv": 152,
+      "surface_mesh_objects_with_uv": 714,
+      "textured_face_objects_without_uv": 0
+    }
+  },
+  "material_selected_shader_signatures_equal": [
+    {
+      "enterprise": "ID11301",
+      "ascendant": "ID6702",
+      "enterprise_source_name": "_58cd499217289.560ca8b44d983",
+      "ascendant_source_name": "_58cd499217289.560ca8b44d983"
+    },
+    {
+      "enterprise": "ID135",
+      "ascendant": "ID5117",
+      "enterprise_source_name": "Color_M09",
+      "ascendant_source_name": "__auto_"
+    },
+    {
+      "enterprise": "ID13938",
+      "ascendant": "ID21019",
+      "enterprise_source_name": "GRATE_GLOW",
+      "ascendant_source_name": "GRATE_GLOW"
+    },
+    {
+      "enterprise": "ID14",
+      "ascendant": "ID88",
+      "enterprise_source_name": "Dark_Gray",
+      "ascendant_source_name": "Dark_Gray"
+    },
+    {
+      "enterprise": "ID1472",
+      "ascendant": "ID11616",
+      "enterprise_source_name": "VIEWSCREEN_GLOW",
+      "ascendant_source_name": "VIEWSCREEN_GLOW"
+    },
+    {
+      "enterprise": "ID1496",
+      "ascendant": "ID11640",
+      "enterprise_source_name": "material_1",
+      "ascendant_source_name": "material_1"
+    },
+    {
+      "enterprise": "ID201",
+      "ascendant": "ID62",
+      "enterprise_source_name": "Gray",
+      "ascendant_source_name": "Gray"
+    },
+    {
+      "enterprise": "ID21638",
+      "ascendant": "ID88",
+      "enterprise_source_name": "__Charcoal_",
+      "ascendant_source_name": "Dark_Gray"
+    },
+    {
+      "enterprise": "ID221",
+      "ascendant": "ID10365",
+      "enterprise_source_name": "HONEYCOMB_GLOW_2",
+      "ascendant_source_name": "HONEYCOMB_GLOW_2"
+    },
+    {
+      "enterprise": "ID3030",
+      "ascendant": "ID1065",
+      "enterprise_source_name": "NewTrekLCARS",
+      "ascendant_source_name": "NewTrekLCARS"
+    },
+    {
+      "enterprise": "ID5305",
+      "ascendant": "ID3377",
+      "enterprise_source_name": "Color_A07",
+      "ascendant_source_name": "__auto_11"
+    },
+    {
+      "enterprise": "ID56",
+      "ascendant": "ID444",
+      "enterprise_source_name": "material",
+      "ascendant_source_name": "WHITE_GLOW"
+    },
+    {
+      "enterprise": "ID56",
+      "ascendant": "ID75",
+      "enterprise_source_name": "material",
+      "ascendant_source_name": "material_0"
+    },
+    {
+      "enterprise": "ID6389",
+      "ascendant": "ID14724",
+      "enterprise_source_name": "Blinds_Roman_Hobbled_Blue",
+      "ascendant_source_name": "Blinds_Roman_Hobbled_Blue"
+    },
+    {
+      "enterprise": "ID6958",
+      "ascendant": "ID15235",
+      "enterprise_source_name": "GLASS_FLOOR",
+      "ascendant_source_name": "GLASS_FLOOR"
+    },
+    {
+      "enterprise": "ID7112",
+      "ascendant": "ID15387",
+      "enterprise_source_name": "iso_web_yellow2",
+      "ascendant_source_name": "iso_web_yellow2"
+    },
+    {
+      "enterprise": "ID99",
+      "ascendant": "ID444",
+      "enterprise_source_name": "WHITE_GLOW",
+      "ascendant_source_name": "WHITE_GLOW"
+    },
+    {
+      "enterprise": "ID99",
+      "ascendant": "ID75",
+      "enterprise_source_name": "WHITE_GLOW",
+      "ascendant_source_name": "material_0"
+    }
+  ],
+  "material_signature_scope": "Exact selected Principled values, packed image SHA256, culling and render mode; excludes UV assignment, whole node graph and appearance.",
+  "front_chair_local_shapes": {
+    "enterprise_surface_meshes": 25,
+    "with_raw_local_match_in_ascendant": 23,
+    "enterprise_triangles_in_matched_parts": 12496
+  },
+  "grid_overlap": {
+    "common_free_XY_points": 897,
+    "enterprise_only_free_XY_points": 14,
+    "ascendant_only_free_XY_points": 61,
+    "enterprise_only_positions": [
+      [
+        -2.0,
+        1.6
+      ],
+      [
+        -0.8,
+        3.6
+      ],
+      [
+        -0.8,
+        4.0
+      ],
+      [
+        -0.4,
+        2.0
+      ],
+      [
+        -0.4,
+        3.2
+      ],
+      [
+        -0.4,
+        3.6
+      ],
+      [
+        0.0,
+        3.2
+      ],
+      [
+        0.0,
+        3.6
+      ],
+      [
+        0.4,
+        2.0
+      ],
+      [
+        0.4,
+        3.2
+      ],
+      [
+        0.4,
+        3.6
+      ],
+      [
+        0.8,
+        3.6
+      ],
+      [
+        0.8,
+        4.0
+      ],
+      [
+        2.0,
+        1.6
+      ]
+    ],
+    "ascendant_only_positions": [
+      [
+        -3.6,
+        -3.2
+      ],
+      [
+        -3.6,
+        -2.8
+      ],
+      [
+        -3.6,
+        -2.0
+      ],
+      [
+        -3.2,
+        -3.6
+      ],
+      [
+        -3.2,
+        -3.2
+      ],
+      [
+        -3.2,
+        -2.8
+      ],
+      [
+        -3.2,
+        -2.4
+      ],
+      [
+        -2.8,
+        -3.6
+      ],
+      [
+        -2.8,
+        -3.2
+      ],
+      [
+        -2.8,
+        -2.8
+      ],
+      [
+        -2.4,
+        -4.4
+      ],
+      [
+        -2.4,
+        -4.0
+      ],
+      [
+        -2.4,
+        -3.6
+      ],
+      [
+        -2.4,
+        -3.2
+      ],
+      [
+        -2.4,
+        -2.8
+      ],
+      [
+        -2.4,
+        -2.4
+      ],
+      [
+        -2.4,
+        1.2
+      ],
+      [
+        -2.0,
+        -4.4
+      ],
+      [
+        -2.0,
+        -4.0
+      ],
+      [
+        -2.0,
+        -3.2
+      ],
+      [
+        -2.0,
+        -2.8
+      ],
+      [
+        -2.0,
+        -2.4
+      ],
+      [
+        -0.8,
+        4.8
+      ],
+      [
+        -0.8,
+        5.2
+      ],
+      [
+        -0.4,
+        4.8
+      ],
+      [
+        -0.4,
+        5.2
+      ],
+      [
+        -0.4,
+        5.6
+      ],
+      [
+        0.0,
+        4.8
+      ],
+      [
+        0.0,
+        5.2
+      ],
+      [
+        0.0,
+        5.6
+      ],
+      [
+        0.4,
+        4.8
+      ],
+      [
+        0.4,
+        5.2
+      ],
+      [
+        0.4,
+        5.6
+      ],
+      [
+        0.8,
+        4.8
+      ],
+      [
+        0.8,
+        5.2
+      ],
+      [
+        1.6,
+        -2.8
+      ],
+      [
+        2.0,
+        -4.4
+      ],
+      [
+        2.0,
+        -4.0
+      ],
+      [
+        2.0,
+        -3.2
+      ],
+      [
+        2.0,
+        -2.8
+      ],
+      [
+        2.0,
+        -2.4
+      ],
+      [
+        2.4,
+        -4.4
+      ],
+      [
+        2.4,
+        -4.0
+      ],
+      [
+        2.4,
+        -3.6
+      ],
+      [
+        2.4,
+        -3.2
+      ],
+      [
+        2.4,
+        -2.8
+      ],
+      [
+        2.4,
+        -2.4
+      ],
+      [
+        2.8,
+        -3.6
+      ],
+      [
+        2.8,
+        -3.2
+      ],
+      [
+        2.8,
+        -2.8
+      ],
+      [
+        2.8,
+        -2.4
+      ],
+      [
+        3.2,
+        -3.6
+      ],
+      [
+        3.2,
+        -3.2
+      ],
+      [
+        3.2,
+        -2.8
+      ],
+      [
+        3.2,
+        -2.4
+      ],
+      [
+        3.2,
+        -2.0
+      ],
+      [
+        3.6,
+        -4.0
+      ],
+      [
+        3.6,
+        -3.2
+      ],
+      [
+        3.6,
+        -2.8
+      ],
+      [
+        3.6,
+        -2.0
+      ],
+      [
+        4.0,
+        -3.2
+      ]
+    ],
+    "limits": "Static positions only; support may be furniture. XY equality does not certify same support height or connected navigation."
+  },
+  "stairs_unapproved_geometric_trials": [
+    {
+      "risers": 6,
+      "riser_m": 0.18500000000000003,
+      "tread_trial_m": 0.28,
+      "horizontal_run_m": 1.4000000000000001,
+      "landing_trial_m_each": 0.68,
+      "run_plus_two_landings_m": 2.7600000000000002,
+      "slope_envelope_deg": 38.40939123185112
+    },
+    {
+      "risers": 7,
+      "riser_m": 0.15857142857142859,
+      "tread_trial_m": 0.28,
+      "horizontal_run_m": 1.6800000000000002,
+      "landing_trial_m_each": 0.68,
+      "run_plus_two_landings_m": 3.04,
+      "slope_envelope_deg": 33.453309454072674
+    },
+    {
+      "risers": 8,
+      "riser_m": 0.13875,
+      "tread_trial_m": 0.28,
+      "horizontal_run_m": 1.9600000000000002,
+      "landing_trial_m_each": 0.68,
+      "run_plus_two_landings_m": 3.3200000000000003,
+      "slope_envelope_deg": 29.524028615101624
+    }
+  ],
+  "rear_internal_depth_m": 1.6903133390000002,
+  "rear_captain_bbox_gap_m": {
+    "enterprise": 1.151806988213294,
+    "ascendant": 2.110420708221313
+  },
+  "recommendation": "A: mantener Enterprise; no cambio del canon ni de la base ejecutado.",
+  "recommendation_basis": "Architecture and rear obstacles equivalent; no connected-navigation gain for Ascendant proven; simpler exclusive captain/CONN datasets in Enterprise. Ascendant independent central half groups and larger upper rear gap are real tradeoffs."
+}
