@@ -1,0 +1,286 @@
+{
+  "verified_at_utc": "2026-10-10T00:07:51.866578+00:00",
+  "assets": {
+    "initial_files_verified": 278,
+    "initial_files_missing": [],
+    "initial_sizes_and_sha256_unchanged": true,
+    "final_files": 300,
+    "added_files_outside_comparison": [
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge.zip",
+        "bytes": 11785247,
+        "format": ".zip",
+        "sha256_at_final_check": "0d5817a94ddd7f033491ef22a057deade62a7886f73b716a0e256930e70fcb96",
+        "mtime_utc": "2026-10-09T23:56:51.094496+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae.zip",
+        "bytes": 6352524,
+        "format": ".zip",
+        "sha256_at_final_check": "1269676274ad0be80151ca2e352cf4800f61a536ba1e64dd1d82754132f63105",
+        "mtime_utc": "2024-11-03T21:57:16+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model.dae",
+        "bytes": 7371167,
+        "format": ".dae",
+        "sha256_at_final_check": "ceb5479532b53f48990a8c104da51cc0d39ece545b18877febb06f51a69ec349",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/Black_Dots_4.png",
+        "bytes": 340,
+        "format": ".png",
+        "sha256_at_final_check": "95454e9a4e443e02cefde07c0b9ecd2f2373cf8ad408e40f14e939fcda38f136",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/HullPlates2.jpg",
+        "bytes": 46705,
+        "format": ".jpg",
+        "sha256_at_final_check": "22b51e4b7cf3ee56bfd725f2155b3c553658b0a5099cbd34f5d1a67cd72a4eb7",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/Lcars2.jpg",
+        "bytes": 121515,
+        "format": ".jpg",
+        "sha256_at_final_check": "e7bf161bedb11490b04dfd2fc05e98f6cfe855ad84534087eb1090962102cda9",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/Metal_Corrogated_Shiny.jpg",
+        "bytes": 1826,
+        "format": ".jpg",
+        "sha256_at_final_check": "f2bf6f866b1e5b110424502ec5d5dbf38bb3c310bef962c1acbbf2a417ae1083",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/NewTrekLCARS.jpg",
+        "bytes": 2726355,
+        "format": ".jpg",
+        "sha256_at_final_check": "d006ab1f2b3bd1643ab0a95aa3a52971e05805d2a6c708e0e8102ab264629610",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/Tile_Hexagon_White.jpg",
+        "bytes": 8426,
+        "format": ".jpg",
+        "sha256_at_final_check": "c6646138af46e390c63ecfef7c36f30c8e382bec9ee1febf985f62112948756e",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/iso_web_yellow2.jpg",
+        "bytes": 34913,
+        "format": ".jpg",
+        "sha256_at_final_check": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/material_4.jpg",
+        "bytes": 36190,
+        "format": ".jpg",
+        "sha256_at_final_check": "6b1d0e62d4d4c2f785dc85065b74afe061badeefd4665208fe64585e40aac3fa",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/source/USS+Vengance+bridge_dae/model/material_8.bmp",
+        "bytes": 5760054,
+        "format": ".bmp",
+        "sha256_at_final_check": "9fd37a835f250c26fd4b5ef42650d2ae28cd4f7631fd95c5c39b811a84fb88d7",
+        "mtime_utc": "2023-07-31T18:20:24+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/Black_Dots_4.png",
+        "bytes": 197,
+        "format": ".png",
+        "sha256_at_final_check": "71b9397206bd5db38d97523636fc5aa83bad355419bb61a6b62ecec5152527f9",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/HullPlates2.jpeg",
+        "bytes": 46705,
+        "format": ".jpeg",
+        "sha256_at_final_check": "22b51e4b7cf3ee56bfd725f2155b3c553658b0a5099cbd34f5d1a67cd72a4eb7",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/Lcars2.jpeg",
+        "bytes": 121515,
+        "format": ".jpeg",
+        "sha256_at_final_check": "e7bf161bedb11490b04dfd2fc05e98f6cfe855ad84534087eb1090962102cda9",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/Metal_Corrogated_Shiny.jpeg",
+        "bytes": 1826,
+        "format": ".jpeg",
+        "sha256_at_final_check": "f2bf6f866b1e5b110424502ec5d5dbf38bb3c310bef962c1acbbf2a417ae1083",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/NewTrekLCARS.jpeg",
+        "bytes": 2726251,
+        "format": ".jpeg",
+        "sha256_at_final_check": "f84dd816056da3bca1dbb95ec0de72b7bc1aff38d67039b3f937f83a0983b7ce",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/Tile_Hexagon_White.jpeg",
+        "bytes": 8426,
+        "format": ".jpeg",
+        "sha256_at_final_check": "c6646138af46e390c63ecfef7c36f30c8e382bec9ee1febf985f62112948756e",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/iso_web_yellow2.jpeg",
+        "bytes": 34913,
+        "format": ".jpeg",
+        "sha256_at_final_check": "85ea0f66321200507441bf3c20eede7373c25fdda8b4e3e707fc85582bff8843",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/material_4.jpeg",
+        "bytes": 37312,
+        "format": ".jpeg",
+        "sha256_at_final_check": "5fac9236ed5970eca9b2351112a50d0a527782c797c06d8b627e808d9f220e7b",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss-vengance-bridge/textures/material_8.png",
+        "bytes": 2454248,
+        "format": ".png",
+        "sha256_at_final_check": "72d6b2a902bc5f378f53da4a592afcd9485e08457707ee71a75e691e73a188e1",
+        "mtime_utc": "2024-11-03T21:57:18+00:00"
+      },
+      {
+        "path": "assets/otros/bridges/USS Vengance bridge/uss_vengance_bridge.glb",
+        "bytes": 8104568,
+        "format": ".glb",
+        "sha256_at_final_check": "6f7ce02521571c8a1c24fb585966253e2e9a2c04b0608093b9ae77114f274e2f",
+        "mtime_utc": "2026-10-09T23:56:59.299427+00:00"
+      }
+    ],
+    "addition_origin": "No creados por los scripts de esta auditoría; autor/proceso no determinado."
+  },
+  "protected_scenes": {
+    "files": 3,
+    "sha256_unchanged": true
+  },
+  "prior_audit_files": {
+    "files": 33,
+    "sha256_unchanged": true
+  },
+  "git": {
+    "branch": "audit/ascendant-vs-enterprise",
+    "head": "33ac98e505b322338af09dee8873bd3049efdd3b",
+    "tracked_changes": false,
+    "staged_changes": false,
+    "status_short": "?? docs/auditorias/COMPARATIVA_ENTERPRISE_ASCENDANT.md\n?? docs/auditorias/comparativa_v1/\n?? docs/auditorias/comparativa_v2/\n?? scripts/blender_python/capturar_comparativa_puentes.py\n?? scripts/blender_python/comparar_puentes_dae.py\n?? scripts/blender_python/comprobar_correspondencias_focales.py\n?? scripts/blender_python/resumir_comparativa_puentes.py\n?? scripts/blender_python/verificar_comparativa_puentes.py",
+    "no_commit_or_push_executed": true
+  },
+  "json_parsed": [
+    "docs/auditorias/comparativa_v2/ASCENDANT_ENSAYO.json",
+    "docs/auditorias/comparativa_v2/CORRESPONDENCIAS_FOCALES.json",
+    "docs/auditorias/comparativa_v2/CORRESPONDENCIA_GEOMETRICA.json",
+    "docs/auditorias/comparativa_v2/ENTERPRISE_ENSAYO.json",
+    "docs/auditorias/comparativa_v2/MATERIALES_PREVIOS.json",
+    "docs/auditorias/comparativa_v2/RESUMEN_COMPARATIVO.json",
+    "docs/auditorias/comparativa_v1/CONTROL_INICIAL.json",
+    "docs/auditorias/comparativa_v1/PROCEDENCIA_PUBLICA.json"
+  ],
+  "scripts_ast_valid": [
+    "comparar_puentes_dae.py",
+    "capturar_comparativa_puentes.py",
+    "comprobar_correspondencias_focales.py",
+    "resumir_comparativa_puentes.py",
+    "verificar_comparativa_puentes.py"
+  ],
+  "comparison_csv_totals_verified": true,
+  "global_common_triangle_count": 2065576,
+  "rear_prism_common_triangle_count": 6828,
+  "captures": [
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/enterprise_superior.png",
+      "sha256": "1b011f44d8bff9e544ff9693223d1071fc17ba45632607f2853e50b8741a3cca",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    },
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/enterprise_general.png",
+      "sha256": "a965fc2b542d97726c39fcb7a5202109f570440986c5983ddb0e251f4d06b4ed",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    },
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/enterprise_central.png",
+      "sha256": "1a649c0c18c3c072428754da21ea4bc8bb556d1656e4c18621828afdee745d49",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    },
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/enterprise_posterior.png",
+      "sha256": "ff496c1387aaeb2a7c8cef9be193e175484842b34233362949f7051ddfde8143",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    },
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/ascendant_superior.png",
+      "sha256": "4281aaba59e8004049eb8c04303664512d700b57bdd02f8d8116e64356aba379",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    },
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/ascendant_general.png",
+      "sha256": "09edab55bc93ae0bcc0d81f727104d2fb4fbf73ac5d9fa0c3c6acb48410aad0a",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    },
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/ascendant_central.png",
+      "sha256": "4a6b573d4b7e82bd5b9585909b33d4e188e1055f4f0482b115f088428f26600d",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    },
+    {
+      "path": "output/capturas_revision/comparativa_enterprise_ascendant_v1/ascendant_posterior.png",
+      "sha256": "a2b54d6fb04ba39b525931c8f0edd8ff1f398cad1e1b1bce692aac4553a361de",
+      "size": [
+        960,
+        720
+      ],
+      "container_verified": true
+    }
+  ],
+  "paired_cameras_identical": true,
+  "captures_git_ignored": true,
+  "ai_visual_inspection": false,
+  "report": {
+    "path": "docs/auditorias/COMPARATIVA_ENTERPRISE_ASCENDANT.md",
+    "bytes": 47172,
+    "sha256": "7f45f2d0807b9526d304d98b5dc173bf59836e743f9dd8fda78af8fe4ecf2f11"
+  },
+  "report_local_links_valid": true,
+  "ue5_project_files_found_in_repo": false
+}
